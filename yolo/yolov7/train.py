@@ -26,8 +26,7 @@ from models.experimental import attempt_load
 from models.yolo import Model
 from utils.autoanchor import check_anchors
 from utils.datasets import create_dataloader
-from utils.general import labels_to_class_weights, increment_path, labels_to_image_weights, init_seeds, \
-    fitness, strip_optimizer, get_latest_run, check_dataset, check_file, check_git_status, check_img_size, \
+from utils.general import labels_to_class_weights, increment_path, labels_to_image_weights, init_seeds, strip_optimizer, get_latest_run, check_dataset, check_file, check_git_status, check_img_size, \
     check_requirements, print_mutation, set_logging, one_cycle, colorstr
 from utils.google_utils import attempt_download
 from utils.loss import ComputeLoss, ComputeLossOTA
@@ -64,7 +63,7 @@ def train(hyp, opt, device, tb_writer=None):
         data_dict = yaml.load(f, Loader=yaml.SafeLoader)  # data dict
     is_coco = opt.data.endswith('coco.yaml')
 
-    # Logging- Doing this before checking the dataset. Might update data_dict
+    # Logging - Doing this before checking the dataset. Might update data_dict
     loggers = {'wandb': None}  # loggers dict
     if rank in [-1, 0]:
         opt.hyp = hyp  # add hyperparameters

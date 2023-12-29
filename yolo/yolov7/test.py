@@ -43,7 +43,7 @@ def test(data,
          v5_metric=False):
     # Initialize/load model and set device
     training = model is not None
-    if training:  # called by train.py
+    if training:  # called by trainPath.py
         device = next(model.parameters()).device  # get model device
 
     else:  # called directly
