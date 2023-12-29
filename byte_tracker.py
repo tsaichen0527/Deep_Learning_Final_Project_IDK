@@ -7,8 +7,8 @@ import torch
 import torch.nn.functional as F
 
 from kalman_filter import KalmanFilter
-from matching import matching
-from .basetrack import BaseTrack, TrackState
+import matching
+from basetrack import BaseTrack, TrackState
 
 class STrack(BaseTrack):
     shared_kalman = KalmanFilter()
