@@ -1,5 +1,0 @@
-pedestrian
-car
-bicycle
-motorcycle
-cyclist
