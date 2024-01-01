@@ -1,0 +1,3205 @@
+FPS:0.0 	 AVG_FPS:0.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (142, 294, 713, 645)
+
+FPS:0.1 	 AVG_FPS:0.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.9] (163, 296, 962, 596)
+	pedestrian: [0.81] (232, 242, 1014, 709)
+	bicycle: [0.53] (377, 375, 751, 686)
+
+FPS:0.2 	 AVG_FPS:0.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.61] (464, 186, 1030, 757)
+	bicycle: [0.98] (577, 102, 975, 532)
+	pedestrian: [0.66] (266, 237, 784, 792)
+
+FPS:0.3 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (429, 317, 1108, 687)
+
+FPS:0.4 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.87] (533, 310, 828, 646)
+	motorcycle: [0.77] (251, 299, 1159, 656)
+	car: [0.89] (407, 222, 1066, 500)
+	bicycle: [0.88] (183, 317, 714, 653)
+
+FPS:0.5 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	car: [0.81] (442, 153, 931, 531)
+
+FPS:0.6 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	car: [0.99] (523, 221, 1160, 593)
+	bicycle: [0.97] (188, 288, 1144, 784)
+	pedestrian: [0.79] (329, 299, 852, 788)
+
+FPS:0.7 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (429, 390, 1156, 550)
+	motorcycle: [0.73] (429, 390, 1156, 550)
+	motorcycle: [0.73] (429, 390, 1156, 550)
+	pedestrian: [0.7] (191, 347, 919, 800)
+	bicycle: [0.99] (377, 322, 1070, 795)
+	car: [0.69] (219, 271, 926, 573)
+
+FPS:0.8 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	car: [0.7] (524, 150, 1078, 657)
+	bicycle: [0.81] (297, 197, 752, 580)
+	motorcycle: [0.51] (201, 318, 907, 593)
+	pedestrian: [0.73] (148, 367, 1194, 753)
+
+FPS:0.9 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.74] (149, 356, 1046, 572)
+	car: [0.79] (383, 110, 865, 630)
+	bicycle: [0.53] (127, 144, 718, 680)
+
+FPS:1.0 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	car: [0.79] (566, 263, 880, 739)
+	pedestrian: [0.57] (148, 398, 1183, 704)
+	bicycle: [0.57] (189, 396, 782, 514)
+	motorcycle: [0.83] (532, 374, 987, 743)
+
+FPS:1.1 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.74] (529, 148, 940, 616)
+
+FPS:1.2 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.97] (285, 262, 752, 786)
+	motorcycle: [0.82] (325, 390, 970, 756)
+	car: [0.58] (529, 250, 759, 528)
+	bicycle: [0.62] (305, 165, 1003, 799)
+
+FPS:1.3 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	car: [0.81] (205, 150, 728, 790)
+	pedestrian: [0.57] (497, 327, 1033, 644)
+	motorcycle: [0.95] (387, 103, 964, 720)
+
+FPS:1.4 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	car: [0.88] (210, 108, 1077, 760)
+	bicycle: [0.73] (565, 356, 1144, 666)
+	motorcycle: [0.51] (381, 150, 1094, 798)
+
+FPS:1.5 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.7] (156, 230, 1185, 540)
+
+FPS:1.6 	 AVG_FPS:0.1
+ cvWriteFrame 
+Objects:
+	car: [0.96] (518, 317, 937, 629)
+	bicycle: [0.79] (100, 212, 1122, 655)
+
+FPS:1.7 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.95] (516, 134, 825, 761)
+	pedestrian: [0.91] (475, 280, 970, 632)
+	bicycle: [0.58] (232, 351, 1013, 542)
+	car: [0.64] (259, 378, 1032, 575)
+
+FPS:1.8 	 AVG_FPS:1.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.91] (208, 387, 1170, 706)
+	bicycle: [0.5] (183, 130, 769, 684)
+
+FPS:1.9 	 AVG_FPS:1.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.77] (471, 169, 1095, 638)
+	motorcycle: [0.68] (472, 144, 788, 566)
+
+FPS:2.0 	 AVG_FPS:0.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.68] (276, 341, 817, 531)
+	car: [0.9] (357, 170, 712, 762)
+
+FPS:2.1 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.92] (417, 285, 868, 598)
+	car: [0.51] (445, 250, 1066, 540)
+
+FPS:2.2 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.59] (120, 317, 761, 760)
+	motorcycle: [0.77] (319, 267, 1078, 649)
+	car: [0.76] (415, 113, 1146, 698)
+
+FPS:2.3 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	car: [0.93] (114, 217, 1083, 530)
+
+FPS:2.4 	 AVG_FPS:1.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.52] (471, 101, 1139, 699)
+	motorcycle: [0.82] (330, 176, 863, 572)
+	car: [0.73] (234, 160, 712, 620)
+	bicycle: [0.56] (496, 337, 778, 504)
+
+FPS:2.5 	 AVG_FPS:0.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.56] (258, 152, 833, 659)
+	motorcycle: [0.53] (140, 304, 1103, 693)
+	pedestrian: [0.92] (211, 230, 1008, 797)
+	car: [0.92] (548, 309, 1011, 661)
+
+FPS:2.6 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.77] (130, 261, 817, 794)
+	pedestrian: [0.5] (120, 343, 966, 617)
+	bicycle: [0.91] (518, 399, 1129, 732)
+
+FPS:2.7 	 AVG_FPS:2.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.92] (566, 202, 1145, 607)
+
+FPS:2.8 	 AVG_FPS:1.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (152, 230, 893, 563)
+
+FPS:2.9 	 AVG_FPS:1.5
+ cvWriteFrame 
+Objects:
+	car: [0.96] (165, 292, 1158, 691)
+	bicycle: [0.85] (555, 222, 989, 718)
+
+FPS:3.0 	 AVG_FPS:2.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (114, 319, 876, 646)
+	car: [0.98] (515, 257, 1079, 635)
+	motorcycle: [0.99] (293, 272, 1075, 609)
+
+FPS:3.1 	 AVG_FPS:1.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.59] (163, 203, 768, 596)
+	car: [0.87] (245, 320, 1105, 655)
+	pedestrian: [0.73] (538, 123, 873, 515)
+	bicycle: [0.78] (363, 341, 1087, 791)
+
+FPS:3.2 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.95] (371, 145, 1127, 652)
+
+FPS:3.3 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (505, 105, 1136, 533)
+	car: [0.95] (539, 338, 719, 715)
+
+FPS:3.4 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.78] (354, 191, 805, 750)
+	bicycle: [0.57] (438, 208, 993, 679)
+	pedestrian: [0.7] (547, 101, 832, 599)
+	car: [0.6] (245, 382, 1057, 662)
+
+FPS:3.5 	 AVG_FPS:0.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.52] (179, 255, 850, 749)
+	pedestrian: [0.8] (585, 176, 707, 680)
+	car: [0.53] (591, 211, 724, 603)
+
+FPS:3.6 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	car: [0.98] (558, 281, 851, 502)
+	pedestrian: [0.94] (111, 183, 883, 506)
+	bicycle: [0.78] (103, 234, 771, 751)
+
+FPS:3.7 	 AVG_FPS:3.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.79] (569, 362, 730, 620)
+
+FPS:3.8 	 AVG_FPS:1.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.67] (447, 224, 1121, 576)
+	car: [0.69] (567, 132, 753, 568)
+
+FPS:3.9 	 AVG_FPS:2.4
+ cvWriteFrame 
+Objects:
+	car: [0.68] (398, 334, 1078, 595)
+	bicycle: [0.86] (180, 400, 1041, 562)
+
+FPS:4.0 	 AVG_FPS:1.0
+ cvWriteFrame 
+Objects:
+	car: [0.65] (536, 175, 991, 614)
+	bicycle: [0.54] (552, 106, 725, 728)
+
+FPS:4.1 	 AVG_FPS:3.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (330, 135, 1118, 568)
+	car: [0.67] (546, 109, 887, 659)
+	bicycle: [0.61] (321, 234, 1004, 666)
+
+FPS:4.2 	 AVG_FPS:1.7
+ cvWriteFrame 
+Objects:
+	car: [0.72] (467, 212, 1132, 779)
+	bicycle: [0.76] (445, 266, 1170, 674)
+
+FPS:4.3 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.6] (124, 267, 780, 798)
+	pedestrian: [0.69] (245, 173, 994, 692)
+	motorcycle: [0.85] (528, 233, 988, 780)
+
+FPS:4.4 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (290, 127, 1053, 583)
+	car: [0.66] (448, 185, 943, 638)
+	pedestrian: [0.82] (449, 136, 959, 519)
+
+FPS:4.5 	 AVG_FPS:0.2
+ cvWriteFrame 
+Objects:
+	car: [0.72] (485, 176, 1075, 529)
+	bicycle: [0.89] (424, 177, 779, 664)
+
+FPS:4.6 	 AVG_FPS:0.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.56] (149, 320, 1107, 793)
+
+FPS:4.7 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.81] (568, 236, 947, 799)
+	car: [0.79] (376, 201, 808, 751)
+	motorcycle: [0.9] (152, 189, 1019, 691)
+	pedestrian: [0.71] (465, 384, 836, 530)
+
+FPS:4.8 	 AVG_FPS:1.6
+ cvWriteFrame 
+Objects:
+	car: [0.95] (342, 141, 1024, 570)
+	pedestrian: [0.78] (426, 206, 931, 528)
+
+FPS:4.9 	 AVG_FPS:2.7
+ cvWriteFrame 
+Objects:
+	car: [0.71] (138, 331, 1037, 732)
+	pedestrian: [0.79] (187, 149, 1036, 519)
+
+FPS:5.0 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.79] (590, 158, 870, 744)
+	motorcycle: [0.73] (210, 140, 843, 796)
+	car: [0.84] (410, 222, 941, 752)
+
+FPS:5.1 	 AVG_FPS:4.8
+ cvWriteFrame 
+Objects:
+	car: [0.91] (150, 367, 830, 753)
+	bicycle: [0.85] (502, 219, 1061, 573)
+	pedestrian: [0.93] (494, 175, 1068, 610)
+	motorcycle: [0.92] (562, 345, 1156, 587)
+
+FPS:5.2 	 AVG_FPS:3.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.55] (273, 105, 721, 551)
+
+FPS:5.3 	 AVG_FPS:1.0
+ cvWriteFrame 
+Objects:
+	car: [0.85] (209, 220, 895, 755)
+	bicycle: [0.66] (326, 242, 1003, 787)
+	motorcycle: [0.57] (140, 147, 1019, 757)
+	pedestrian: [0.51] (567, 354, 997, 770)
+
+FPS:5.4 	 AVG_FPS:5.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (522, 200, 959, 709)
+
+FPS:5.5 	 AVG_FPS:4.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.51] (300, 234, 899, 534)
+
+FPS:5.6 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.88] (175, 141, 878, 702)
+	motorcycle: [0.68] (332, 248, 1011, 799)
+	pedestrian: [0.75] (155, 249, 1198, 787)
+
+FPS:5.7 	 AVG_FPS:1.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.71] (105, 364, 1007, 691)
+	car: [0.97] (421, 277, 1121, 644)
+
+FPS:5.8 	 AVG_FPS:5.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.64] (108, 274, 720, 608)
+
+FPS:5.9 	 AVG_FPS:5.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.8] (433, 133, 863, 547)
+
+FPS:6.0 	 AVG_FPS:0.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.77] (379, 305, 953, 758)
+
+FPS:6.1 	 AVG_FPS:4.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.75] (260, 208, 911, 652)
+	car: [0.76] (122, 380, 1034, 606)
+	motorcycle: [0.95] (303, 355, 861, 562)
+	bicycle: [0.87] (289, 143, 1064, 772)
+
+FPS:6.2 	 AVG_FPS:0.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.55] (525, 391, 1113, 687)
+	car: [0.68] (304, 328, 936, 666)
+	pedestrian: [0.95] (442, 171, 948, 728)
+
+FPS:6.3 	 AVG_FPS:1.3
+ cvWriteFrame 
+Objects:
+	car: [0.73] (495, 152, 1130, 548)
+
+FPS:6.4 	 AVG_FPS:3.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.61] (406, 260, 897, 729)
+
+FPS:6.5 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.54] (243, 236, 704, 795)
+	bicycle: [0.74] (315, 270, 827, 757)
+	motorcycle: [0.57] (315, 134, 1196, 615)
+
+FPS:6.6 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (115, 361, 1126, 773)
+
+FPS:6.7 	 AVG_FPS:4.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.89] (545, 183, 1024, 727)
+	car: [0.92] (577, 335, 961, 798)
+	pedestrian: [0.63] (136, 344, 902, 511)
+
+FPS:6.8 	 AVG_FPS:1.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [1.0] (365, 161, 864, 661)
+
+FPS:6.9 	 AVG_FPS:5.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (416, 320, 784, 606)
+
+FPS:7.0 	 AVG_FPS:6.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.8] (220, 300, 800, 633)
+	motorcycle: [0.58] (313, 214, 915, 537)
+	bicycle: [0.87] (516, 260, 925, 602)
+
+FPS:7.1 	 AVG_FPS:6.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.98] (195, 258, 855, 540)
+	car: [0.98] (560, 216, 728, 622)
+	motorcycle: [0.8] (441, 150, 706, 596)
+
+FPS:7.2 	 AVG_FPS:4.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.6] (301, 190, 732, 675)
+	pedestrian: [0.59] (595, 393, 819, 577)
+
+FPS:7.3 	 AVG_FPS:5.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.8] (500, 176, 1071, 787)
+
+FPS:7.4 	 AVG_FPS:6.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.99] (211, 157, 817, 608)
+	car: [0.84] (435, 351, 756, 746)
+
+FPS:7.5 	 AVG_FPS:5.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.87] (200, 346, 805, 625)
+	car: [0.69] (512, 115, 987, 644)
+	pedestrian: [0.62] (575, 205, 815, 629)
+
+FPS:7.6 	 AVG_FPS:7.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (436, 361, 860, 501)
+	car: [0.99] (426, 387, 986, 718)
+	pedestrian: [0.97] (273, 109, 905, 680)
+
+FPS:7.7 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.7] (316, 294, 1077, 651)
+	car: [0.55] (386, 395, 984, 525)
+
+FPS:7.8 	 AVG_FPS:4.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.83] (314, 172, 1127, 731)
+	car: [0.98] (273, 292, 862, 742)
+	pedestrian: [0.81] (220, 307, 811, 667)
+	bicycle: [0.58] (508, 125, 847, 547)
+
+FPS:7.9 	 AVG_FPS:6.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (322, 199, 905, 599)
+	motorcycle: [0.96] (378, 335, 797, 507)
+
+FPS:8.0 	 AVG_FPS:3.6
+ cvWriteFrame 
+Objects:
+	car: [0.52] (246, 237, 824, 791)
+
+FPS:8.1 	 AVG_FPS:3.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.51] (493, 100, 1038, 743)
+	car: [0.56] (155, 340, 1098, 577)
+	bicycle: [0.94] (277, 245, 840, 788)
+
+FPS:8.2 	 AVG_FPS:4.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.93] (290, 372, 1005, 633)
+	motorcycle: [0.64] (535, 219, 753, 519)
+
+FPS:8.3 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.89] (300, 395, 776, 574)
+	pedestrian: [0.54] (417, 100, 1113, 507)
+	bicycle: [0.54] (434, 304, 1078, 650)
+	car: [0.86] (583, 298, 1149, 523)
+
+FPS:8.4 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.83] (298, 370, 981, 775)
+
+FPS:8.5 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.65] (263, 147, 1046, 728)
+	motorcycle: [0.51] (256, 247, 1141, 759)
+	car: [0.9] (184, 236, 1152, 508)
+	bicycle: [0.91] (541, 370, 1024, 640)
+
+FPS:8.6 	 AVG_FPS:2.7
+ cvWriteFrame 
+Objects:
+	car: [0.73] (230, 109, 1113, 610)
+	pedestrian: [0.79] (263, 264, 794, 728)
+	motorcycle: [0.62] (325, 193, 792, 788)
+
+FPS:8.7 	 AVG_FPS:3.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (452, 234, 928, 678)
+
+FPS:8.8 	 AVG_FPS:8.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.93] (387, 340, 1047, 638)
+	car: [0.99] (167, 130, 1018, 580)
+	pedestrian: [0.62] (364, 173, 835, 667)
+	bicycle: [0.53] (487, 234, 847, 708)
+
+FPS:8.9 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.61] (148, 169, 862, 607)
+	pedestrian: [0.57] (134, 176, 721, 615)
+	motorcycle: [0.54] (402, 213, 803, 769)
+	car: [0.93] (367, 155, 1143, 699)
+
+FPS:9.0 	 AVG_FPS:4.9
+ cvWriteFrame 
+Objects:
+	car: [0.57] (338, 276, 1050, 527)
+	pedestrian: [0.53] (440, 248, 1029, 578)
+
+FPS:9.1 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.6] (460, 109, 772, 664)
+	pedestrian: [0.76] (579, 362, 1151, 629)
+
+FPS:9.2 	 AVG_FPS:4.0
+ cvWriteFrame 
+Objects:
+	car: [0.89] (323, 204, 997, 726)
+
+FPS:9.3 	 AVG_FPS:2.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.82] (517, 365, 963, 716)
+	pedestrian: [0.97] (569, 286, 1081, 528)
+
+FPS:9.4 	 AVG_FPS:6.2
+ cvWriteFrame 
+Objects:
+	car: [0.6] (336, 103, 881, 646)
+	pedestrian: [0.55] (137, 361, 712, 521)
+	bicycle: [0.62] (325, 314, 938, 731)
+	motorcycle: [0.66] (330, 125, 845, 594)
+
+FPS:9.5 	 AVG_FPS:1.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.67] (212, 110, 1105, 717)
+
+FPS:9.6 	 AVG_FPS:0.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.68] (160, 347, 873, 612)
+
+FPS:9.7 	 AVG_FPS:5.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (187, 279, 832, 582)
+	motorcycle: [0.73] (550, 119, 1153, 689)
+
+FPS:9.8 	 AVG_FPS:9.7
+ cvWriteFrame 
+Objects:
+	car: [0.54] (535, 200, 841, 640)
+	motorcycle: [0.55] (186, 151, 904, 799)
+	pedestrian: [0.73] (417, 333, 1189, 572)
+
+FPS:9.9 	 AVG_FPS:4.0
+ cvWriteFrame 
+Objects:
+	car: [0.75] (193, 123, 1083, 591)
+	pedestrian: [1.0] (555, 130, 724, 697)
+	motorcycle: [0.64] (168, 315, 892, 726)
+
+FPS:10.0 	 AVG_FPS:2.7
+ cvWriteFrame 
+Objects:
+	car: [0.65] (279, 250, 979, 620)
+	motorcycle: [0.67] (188, 272, 828, 549)
+	bicycle: [0.52] (219, 159, 1070, 788)
+
+FPS:10.1 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.57] (197, 250, 948, 785)
+	motorcycle: [0.79] (368, 162, 875, 797)
+
+FPS:10.2 	 AVG_FPS:4.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.6] (379, 135, 823, 690)
+	pedestrian: [0.9] (273, 194, 710, 660)
+	car: [0.54] (596, 340, 1150, 640)
+	motorcycle: [0.89] (475, 373, 1187, 641)
+
+FPS:10.3 	 AVG_FPS:6.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.93] (374, 142, 901, 731)
+
+FPS:10.4 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	car: [0.91] (472, 205, 1126, 787)
+	pedestrian: [0.9] (449, 204, 854, 539)
+	bicycle: [0.71] (456, 110, 1102, 604)
+
+FPS:10.5 	 AVG_FPS:8.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.76] (303, 290, 820, 697)
+	bicycle: [0.84] (434, 186, 1052, 641)
+
+FPS:10.6 	 AVG_FPS:6.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.85] (431, 219, 721, 556)
+	car: [0.62] (173, 118, 883, 611)
+
+FPS:10.7 	 AVG_FPS:5.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (300, 268, 1094, 776)
+	car: [0.94] (538, 296, 719, 734)
+	pedestrian: [0.91] (384, 213, 860, 788)
+	motorcycle: [0.8] (185, 378, 943, 633)
+
+FPS:10.8 	 AVG_FPS:2.1
+ cvWriteFrame 
+Objects:
+	car: [0.84] (291, 237, 985, 566)
+	bicycle: [0.86] (213, 213, 981, 747)
+
+FPS:10.9 	 AVG_FPS:7.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.83] (469, 236, 1160, 516)
+	bicycle: [0.51] (169, 142, 925, 629)
+
+FPS:11.0 	 AVG_FPS:7.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.71] (385, 345, 797, 658)
+	motorcycle: [0.98] (331, 381, 1171, 644)
+	bicycle: [0.67] (546, 120, 906, 534)
+	car: [0.88] (414, 391, 713, 637)
+
+FPS:11.1 	 AVG_FPS:9.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.79] (191, 346, 706, 563)
+	car: [0.94] (513, 289, 798, 503)
+	bicycle: [0.76] (378, 183, 962, 730)
+	pedestrian: [0.71] (392, 261, 704, 565)
+
+FPS:11.2 	 AVG_FPS:5.8
+ cvWriteFrame 
+Objects:
+	car: [0.78] (563, 263, 1081, 669)
+	pedestrian: [0.89] (371, 116, 886, 583)
+	bicycle: [0.68] (348, 123, 952, 536)
+
+FPS:11.3 	 AVG_FPS:10.4
+ cvWriteFrame 
+Objects:
+	car: [0.91] (151, 289, 909, 629)
+	motorcycle: [0.86] (237, 145, 710, 732)
+
+FPS:11.4 	 AVG_FPS:5.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.71] (513, 244, 1145, 586)
+	bicycle: [0.77] (221, 263, 947, 698)
+	pedestrian: [0.84] (218, 183, 808, 574)
+	car: [0.97] (429, 262, 1052, 740)
+
+FPS:11.5 	 AVG_FPS:3.5
+ cvWriteFrame 
+Objects:
+	car: [0.85] (408, 109, 1169, 602)
+	pedestrian: [0.96] (386, 387, 1195, 592)
+	bicycle: [0.69] (240, 329, 1031, 535)
+
+FPS:11.6 	 AVG_FPS:8.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.87] (316, 194, 954, 710)
+	pedestrian: [0.99] (539, 152, 1190, 583)
+	motorcycle: [0.68] (579, 340, 1188, 605)
+
+FPS:11.7 	 AVG_FPS:3.3
+ cvWriteFrame 
+Objects:
+	car: [0.72] (428, 291, 844, 602)
+	pedestrian: [0.53] (139, 173, 810, 533)
+	bicycle: [0.56] (544, 218, 996, 710)
+
+FPS:11.8 	 AVG_FPS:6.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.89] (133, 383, 1077, 553)
+
+FPS:11.9 	 AVG_FPS:10.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.91] (452, 297, 1184, 760)
+	bicycle: [0.74] (233, 333, 1012, 767)
+
+FPS:12.0 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.65] (336, 148, 1012, 648)
+
+FPS:12.1 	 AVG_FPS:0.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.68] (514, 127, 901, 733)
+	car: [0.85] (172, 282, 1007, 653)
+
+FPS:12.2 	 AVG_FPS:11.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.67] (359, 287, 717, 637)
+	car: [0.55] (509, 341, 782, 620)
+
+FPS:12.3 	 AVG_FPS:6.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.74] (345, 258, 1094, 575)
+
+FPS:12.4 	 AVG_FPS:7.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.94] (475, 328, 1051, 678)
+	car: [0.64] (399, 316, 1151, 756)
+	bicycle: [0.83] (274, 394, 1023, 648)
+
+FPS:12.5 	 AVG_FPS:2.6
+ cvWriteFrame 
+Objects:
+	car: [0.68] (171, 138, 1166, 535)
+	bicycle: [0.98] (207, 204, 1083, 631)
+	pedestrian: [0.76] (586, 313, 1129, 546)
+
+FPS:12.6 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.7] (289, 117, 782, 577)
+	motorcycle: [0.67] (146, 375, 726, 755)
+
+FPS:12.7 	 AVG_FPS:7.9
+ cvWriteFrame 
+Objects:
+	car: [0.58] (340, 276, 963, 800)
+	pedestrian: [0.83] (267, 279, 789, 605)
+
+FPS:12.8 	 AVG_FPS:12.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.96] (223, 107, 1178, 732)
+	car: [0.78] (453, 189, 810, 502)
+	pedestrian: [0.99] (280, 330, 745, 716)
+	bicycle: [0.85] (539, 203, 825, 780)
+
+FPS:12.9 	 AVG_FPS:2.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.85] (544, 156, 1131, 552)
+	bicycle: [0.94] (491, 304, 1012, 592)
+	car: [0.67] (441, 117, 1168, 523)
+
+FPS:13.0 	 AVG_FPS:7.1
+ cvWriteFrame 
+Objects:
+	car: [0.9] (468, 172, 860, 667)
+	pedestrian: [0.56] (362, 305, 969, 760)
+	motorcycle: [0.91] (158, 239, 1042, 706)
+
+FPS:13.1 	 AVG_FPS:6.4
+ cvWriteFrame 
+Objects:
+	car: [0.64] (402, 368, 1071, 518)
+	bicycle: [0.62] (104, 319, 1084, 749)
+
+FPS:13.2 	 AVG_FPS:7.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.69] (406, 112, 923, 536)
+
+FPS:13.3 	 AVG_FPS:7.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.54] (364, 322, 1074, 662)
+	bicycle: [0.6] (142, 178, 1003, 714)
+	car: [0.88] (257, 307, 855, 694)
+	pedestrian: [0.97] (123, 390, 802, 706)
+
+FPS:13.4 	 AVG_FPS:3.6
+ cvWriteFrame 
+Objects:
+	car: [0.87] (216, 347, 973, 753)
+	motorcycle: [0.59] (242, 187, 788, 673)
+	pedestrian: [0.68] (330, 343, 1024, 709)
+	bicycle: [0.84] (245, 385, 878, 743)
+
+FPS:13.5 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.66] (233, 124, 925, 642)
+
+FPS:13.6 	 AVG_FPS:5.6
+ cvWriteFrame 
+Objects:
+	car: [0.91] (296, 115, 911, 775)
+	bicycle: [0.69] (553, 175, 711, 715)
+
+FPS:13.7 	 AVG_FPS:6.3
+ cvWriteFrame 
+Objects:
+	car: [0.89] (433, 131, 949, 670)
+
+FPS:13.8 	 AVG_FPS:0.2
+ cvWriteFrame 
+Objects:
+	car: [0.65] (282, 136, 744, 766)
+	motorcycle: [0.79] (315, 177, 955, 522)
+
+FPS:13.9 	 AVG_FPS:2.8
+ cvWriteFrame 
+Objects:
+	car: [0.7] (451, 282, 787, 792)
+	pedestrian: [0.76] (280, 130, 1070, 621)
+
+FPS:14.0 	 AVG_FPS:10.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.96] (319, 116, 965, 506)
+	bicycle: [0.83] (172, 159, 962, 549)
+
+FPS:14.1 	 AVG_FPS:3.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.7] (107, 167, 764, 650)
+	motorcycle: [0.64] (258, 372, 906, 643)
+	bicycle: [0.51] (447, 364, 943, 674)
+
+FPS:14.2 	 AVG_FPS:14.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.76] (306, 345, 1080, 712)
+	motorcycle: [0.65] (223, 188, 1130, 798)
+	car: [0.78] (408, 249, 987, 719)
+
+FPS:14.3 	 AVG_FPS:2.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.57] (199, 212, 1179, 668)
+	car: [0.58] (406, 292, 1155, 514)
+	motorcycle: [0.5] (445, 203, 896, 550)
+
+FPS:14.4 	 AVG_FPS:12.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.71] (492, 340, 978, 786)
+
+FPS:14.5 	 AVG_FPS:13.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.56] (367, 378, 1105, 646)
+	pedestrian: [0.53] (390, 225, 822, 654)
+
+FPS:14.6 	 AVG_FPS:11.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.63] (244, 118, 837, 688)
+	pedestrian: [0.84] (102, 216, 1084, 634)
+	car: [0.8] (521, 275, 954, 608)
+
+FPS:14.7 	 AVG_FPS:10.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.81] (598, 210, 892, 704)
+	motorcycle: [0.89] (572, 328, 897, 735)
+
+FPS:14.8 	 AVG_FPS:9.0
+ cvWriteFrame 
+Objects:
+	car: [0.86] (178, 327, 969, 590)
+
+FPS:14.9 	 AVG_FPS:6.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.57] (352, 109, 1007, 715)
+	bicycle: [0.68] (301, 368, 1139, 563)
+	motorcycle: [0.85] (399, 182, 785, 709)
+
+FPS:15.0 	 AVG_FPS:6.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.56] (541, 348, 1146, 596)
+	motorcycle: [0.7] (277, 355, 1064, 522)
+	pedestrian: [0.9] (477, 353, 802, 512)
+
+FPS:15.1 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	car: [0.87] (141, 389, 1113, 706)
+	pedestrian: [0.76] (322, 309, 788, 670)
+	motorcycle: [0.74] (324, 198, 738, 673)
+
+FPS:15.2 	 AVG_FPS:6.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.86] (225, 277, 1191, 669)
+
+FPS:15.3 	 AVG_FPS:12.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.93] (230, 230, 822, 659)
+	motorcycle: [0.57] (462, 106, 729, 536)
+	car: [0.67] (307, 123, 738, 798)
+
+FPS:15.4 	 AVG_FPS:10.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.71] (265, 182, 1076, 636)
+	car: [0.62] (579, 113, 910, 670)
+
+FPS:15.5 	 AVG_FPS:4.1
+ cvWriteFrame 
+Objects:
+	car: [0.99] (496, 241, 985, 795)
+	bicycle: [0.83] (420, 328, 822, 683)
+	motorcycle: [0.76] (436, 340, 1130, 788)
+
+FPS:15.6 	 AVG_FPS:14.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.78] (574, 371, 818, 790)
+	pedestrian: [0.57] (546, 153, 830, 584)
+	motorcycle: [0.64] (268, 342, 1098, 734)
+
+FPS:15.7 	 AVG_FPS:3.2
+ cvWriteFrame 
+Objects:
+	car: [0.8] (197, 291, 857, 565)
+
+FPS:15.8 	 AVG_FPS:11.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (286, 356, 700, 664)
+	car: [0.78] (262, 364, 1041, 598)
+
+FPS:15.9 	 AVG_FPS:3.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.72] (306, 271, 701, 614)
+
+FPS:16.0 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.98] (429, 281, 766, 640)
+	car: [0.8] (263, 381, 777, 690)
+	bicycle: [0.74] (111, 243, 1022, 615)
+	pedestrian: [0.77] (314, 122, 765, 644)
+
+FPS:16.1 	 AVG_FPS:5.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.95] (325, 192, 716, 540)
+	car: [0.55] (352, 227, 918, 515)
+	motorcycle: [0.56] (233, 377, 1129, 670)
+
+FPS:16.2 	 AVG_FPS:13.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.97] (195, 346, 959, 698)
+	pedestrian: [0.72] (271, 277, 822, 796)
+
+FPS:16.3 	 AVG_FPS:2.3
+ cvWriteFrame 
+Objects:
+	car: [0.97] (591, 396, 868, 669)
+	bicycle: [0.58] (543, 145, 943, 714)
+	motorcycle: [0.66] (413, 369, 843, 559)
+
+FPS:16.4 	 AVG_FPS:10.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.97] (197, 335, 907, 790)
+	pedestrian: [0.57] (248, 262, 709, 650)
+	bicycle: [0.95] (519, 117, 1187, 503)
+
+FPS:16.5 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	car: [0.53] (331, 166, 1071, 559)
+	bicycle: [0.85] (399, 361, 882, 656)
+
+FPS:16.6 	 AVG_FPS:6.5
+ cvWriteFrame 
+Objects:
+	car: [0.57] (213, 265, 1135, 592)
+	bicycle: [0.82] (287, 256, 1075, 715)
+
+FPS:16.7 	 AVG_FPS:6.1
+ cvWriteFrame 
+Objects:
+	car: [0.96] (592, 344, 1096, 790)
+	bicycle: [0.71] (578, 162, 712, 763)
+	motorcycle: [0.7] (327, 335, 851, 691)
+	pedestrian: [0.98] (226, 139, 975, 572)
+
+FPS:16.8 	 AVG_FPS:16.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.58] (247, 348, 780, 687)
+
+FPS:16.9 	 AVG_FPS:14.9
+ cvWriteFrame 
+Objects:
+	car: [0.57] (429, 152, 988, 691)
+	bicycle: [0.74] (424, 262, 1120, 654)
+	pedestrian: [0.74] (131, 357, 1139, 598)
+
+FPS:17.0 	 AVG_FPS:5.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (505, 305, 850, 741)
+
+FPS:17.1 	 AVG_FPS:15.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.55] (557, 373, 930, 772)
+	pedestrian: [0.92] (316, 212, 1039, 589)
+	bicycle: [0.87] (284, 280, 971, 731)
+
+FPS:17.2 	 AVG_FPS:2.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.81] (560, 229, 1086, 742)
+	car: [0.88] (115, 249, 745, 736)
+
+FPS:17.3 	 AVG_FPS:8.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.82] (358, 327, 1021, 577)
+	bicycle: [0.79] (162, 252, 1051, 658)
+
+FPS:17.4 	 AVG_FPS:3.1
+ cvWriteFrame 
+Objects:
+	car: [0.51] (459, 320, 810, 567)
+
+FPS:17.5 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (219, 191, 952, 713)
+	motorcycle: [0.83] (426, 153, 1109, 502)
+	car: [0.6] (506, 398, 937, 670)
+	pedestrian: [0.54] (172, 367, 767, 585)
+
+FPS:17.6 	 AVG_FPS:17.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.52] (132, 319, 1105, 527)
+	pedestrian: [0.92] (379, 369, 1116, 696)
+
+FPS:17.7 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	car: [0.61] (567, 232, 1171, 580)
+	bicycle: [0.59] (209, 273, 970, 683)
+	motorcycle: [0.58] (571, 395, 901, 703)
+
+FPS:17.8 	 AVG_FPS:13.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (154, 226, 956, 750)
+	motorcycle: [0.8] (282, 111, 829, 683)
+
+FPS:17.9 	 AVG_FPS:1.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.57] (579, 251, 1028, 666)
+	car: [0.71] (199, 359, 732, 678)
+	bicycle: [0.77] (392, 277, 1140, 691)
+
+FPS:18.0 	 AVG_FPS:1.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.64] (271, 109, 853, 790)
+	car: [0.73] (131, 368, 849, 571)
+	motorcycle: [0.64] (256, 112, 955, 713)
+	bicycle: [0.74] (161, 296, 863, 650)
+
+FPS:18.1 	 AVG_FPS:15.0
+ cvWriteFrame 
+Objects:
+	car: [0.82] (243, 245, 866, 523)
+	pedestrian: [0.67] (462, 382, 1030, 552)
+	motorcycle: [0.65] (256, 115, 774, 547)
+
+FPS:18.2 	 AVG_FPS:17.1
+ cvWriteFrame 
+Objects:
+	car: [0.99] (581, 181, 803, 627)
+	motorcycle: [0.93] (407, 323, 845, 551)
+	bicycle: [1.0] (445, 272, 917, 548)
+
+FPS:18.3 	 AVG_FPS:13.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.71] (166, 238, 1097, 549)
+	pedestrian: [0.53] (600, 274, 818, 670)
+	car: [0.51] (252, 346, 1142, 615)
+
+FPS:18.4 	 AVG_FPS:17.5
+ cvWriteFrame 
+Objects:
+	car: [0.54] (289, 181, 1015, 531)
+
+FPS:18.5 	 AVG_FPS:15.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (119, 145, 708, 645)
+
+FPS:18.6 	 AVG_FPS:1.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.85] (319, 109, 989, 726)
+
+FPS:18.7 	 AVG_FPS:14.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.9] (403, 383, 873, 558)
+	pedestrian: [0.93] (487, 353, 832, 757)
+	motorcycle: [0.79] (449, 380, 895, 727)
+
+FPS:18.8 	 AVG_FPS:5.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.62] (400, 238, 1096, 511)
+	motorcycle: [0.85] (262, 351, 940, 575)
+	pedestrian: [0.64] (587, 117, 875, 615)
+
+FPS:18.9 	 AVG_FPS:7.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.81] (424, 115, 1041, 686)
+
+FPS:19.0 	 AVG_FPS:2.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.51] (350, 102, 876, 766)
+	bicycle: [0.78] (435, 201, 879, 741)
+
+FPS:19.1 	 AVG_FPS:7.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.84] (334, 119, 813, 659)
+	pedestrian: [0.95] (435, 145, 1163, 589)
+	car: [0.99] (464, 156, 710, 658)
+
+FPS:19.2 	 AVG_FPS:17.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.53] (417, 275, 769, 625)
+	bicycle: [0.91] (444, 397, 786, 511)
+	car: [0.58] (333, 157, 887, 578)
+	motorcycle: [0.77] (226, 224, 903, 795)
+
+FPS:19.3 	 AVG_FPS:8.4
+ cvWriteFrame 
+Objects:
+	car: [0.53] (573, 304, 1029, 781)
+
+FPS:19.4 	 AVG_FPS:18.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.7] (563, 342, 963, 682)
+	pedestrian: [0.81] (123, 343, 885, 797)
+	bicycle: [0.79] (364, 331, 1158, 701)
+
+FPS:19.5 	 AVG_FPS:11.5
+ cvWriteFrame 
+Objects:
+	car: [0.81] (356, 285, 983, 516)
+	bicycle: [0.93] (584, 326, 915, 581)
+
+FPS:19.6 	 AVG_FPS:11.5
+ cvWriteFrame 
+Objects:
+	car: [0.96] (427, 178, 1158, 687)
+	pedestrian: [0.69] (286, 295, 1150, 664)
+	bicycle: [0.52] (494, 273, 1108, 516)
+	motorcycle: [0.58] (123, 314, 917, 768)
+
+FPS:19.7 	 AVG_FPS:7.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.77] (177, 191, 975, 770)
+	pedestrian: [0.66] (363, 316, 1118, 673)
+	bicycle: [0.95] (505, 164, 863, 726)
+
+FPS:19.8 	 AVG_FPS:6.7
+ cvWriteFrame 
+Objects:
+	car: [0.65] (303, 324, 708, 785)
+
+FPS:19.9 	 AVG_FPS:0.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.82] (280, 137, 874, 699)
+	bicycle: [0.56] (573, 262, 947, 587)
+
+FPS:20.0 	 AVG_FPS:4.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.53] (388, 253, 865, 664)
+	bicycle: [0.85] (535, 335, 1175, 637)
+	pedestrian: [0.58] (385, 176, 961, 739)
+
+FPS:20.1 	 AVG_FPS:5.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (419, 398, 1043, 642)
+	car: [0.99] (412, 175, 999, 527)
+	pedestrian: [0.55] (394, 266, 1088, 572)
+	motorcycle: [0.53] (329, 353, 996, 731)
+
+FPS:20.2 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	car: [0.54] (414, 365, 706, 693)
+	pedestrian: [0.94] (183, 154, 1088, 627)
+	motorcycle: [0.71] (366, 275, 721, 633)
+
+FPS:20.3 	 AVG_FPS:15.8
+ cvWriteFrame 
+Objects:
+	car: [0.74] (365, 274, 1034, 524)
+	pedestrian: [0.81] (492, 215, 871, 628)
+	motorcycle: [0.96] (400, 259, 755, 631)
+	bicycle: [0.62] (532, 167, 867, 538)
+
+FPS:20.4 	 AVG_FPS:15.3
+ cvWriteFrame 
+Objects:
+	car: [0.87] (271, 163, 1119, 564)
+	pedestrian: [0.85] (404, 163, 763, 515)
+	bicycle: [0.97] (511, 209, 1101, 757)
+	motorcycle: [0.6] (123, 173, 957, 607)
+
+FPS:20.5 	 AVG_FPS:11.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.56] (354, 324, 1071, 673)
+
+FPS:20.6 	 AVG_FPS:11.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (582, 323, 1147, 671)
+	motorcycle: [0.56] (222, 381, 1120, 741)
+	car: [0.68] (437, 385, 1122, 682)
+	pedestrian: [0.71] (270, 102, 776, 651)
+
+FPS:20.7 	 AVG_FPS:20.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.92] (567, 209, 919, 643)
+	pedestrian: [0.71] (444, 323, 987, 605)
+	motorcycle: [0.55] (583, 338, 825, 542)
+	car: [0.87] (478, 323, 711, 639)
+
+FPS:20.8 	 AVG_FPS:15.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.7] (340, 287, 890, 556)
+
+FPS:20.9 	 AVG_FPS:9.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.55] (586, 367, 802, 764)
+
+FPS:21.0 	 AVG_FPS:3.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.96] (270, 184, 935, 742)
+
+FPS:21.1 	 AVG_FPS:18.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.63] (352, 160, 1121, 716)
+
+FPS:21.2 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.87] (140, 165, 1010, 749)
+	pedestrian: [0.76] (199, 142, 995, 800)
+
+FPS:21.3 	 AVG_FPS:19.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.98] (573, 134, 871, 728)
+	motorcycle: [0.95] (209, 105, 1122, 638)
+
+FPS:21.4 	 AVG_FPS:3.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.76] (114, 253, 860, 696)
+	car: [0.93] (392, 101, 907, 765)
+	pedestrian: [0.52] (549, 289, 1165, 540)
+	motorcycle: [0.77] (553, 389, 773, 798)
+
+FPS:21.5 	 AVG_FPS:16.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (179, 337, 915, 783)
+	bicycle: [0.74] (167, 299, 959, 633)
+	car: [0.65] (462, 370, 1081, 773)
+	pedestrian: [0.88] (286, 269, 773, 675)
+
+FPS:21.6 	 AVG_FPS:10.1
+ cvWriteFrame 
+Objects:
+	car: [0.65] (115, 248, 731, 588)
+	pedestrian: [0.85] (485, 276, 1182, 525)
+	motorcycle: [0.6] (227, 172, 935, 519)
+	bicycle: [0.79] (313, 119, 777, 687)
+
+FPS:21.7 	 AVG_FPS:10.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.58] (427, 366, 744, 618)
+	motorcycle: [0.91] (219, 300, 967, 769)
+	car: [0.62] (167, 322, 923, 540)
+	pedestrian: [0.85] (505, 116, 756, 557)
+
+FPS:21.8 	 AVG_FPS:8.6
+ cvWriteFrame 
+Objects:
+	car: [0.52] (184, 334, 950, 618)
+	pedestrian: [0.75] (217, 233, 1039, 627)
+
+FPS:21.9 	 AVG_FPS:0.7
+ cvWriteFrame 
+Objects:
+	car: [0.53] (533, 114, 1048, 636)
+	pedestrian: [0.96] (203, 249, 911, 517)
+
+FPS:22.0 	 AVG_FPS:19.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.68] (438, 260, 1051, 708)
+	car: [0.66] (151, 374, 709, 611)
+
+FPS:22.1 	 AVG_FPS:21.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.97] (513, 268, 979, 653)
+	motorcycle: [0.78] (497, 325, 1077, 690)
+	car: [0.92] (323, 362, 1013, 524)
+	bicycle: [0.64] (145, 131, 1177, 615)
+
+FPS:22.2 	 AVG_FPS:12.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.68] (180, 399, 835, 582)
+	car: [0.93] (487, 399, 815, 678)
+	pedestrian: [0.93] (260, 377, 1114, 789)
+
+FPS:22.3 	 AVG_FPS:8.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.93] (185, 134, 742, 746)
+	car: [0.9] (267, 359, 908, 634)
+	motorcycle: [0.75] (569, 299, 1128, 618)
+	pedestrian: [0.5] (273, 219, 718, 514)
+
+FPS:22.4 	 AVG_FPS:11.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.94] (338, 245, 1072, 705)
+
+FPS:22.5 	 AVG_FPS:8.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.95] (317, 345, 1073, 765)
+	motorcycle: [0.84] (273, 378, 1046, 678)
+
+FPS:22.6 	 AVG_FPS:3.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.63] (446, 147, 898, 764)
+	pedestrian: [0.94] (183, 400, 967, 688)
+
+FPS:22.7 	 AVG_FPS:22.5
+ cvWriteFrame 
+Objects:
+	car: [0.72] (381, 278, 1152, 685)
+	bicycle: [0.54] (251, 177, 839, 527)
+	pedestrian: [0.97] (461, 138, 894, 664)
+	motorcycle: [0.55] (165, 387, 1023, 597)
+
+FPS:22.8 	 AVG_FPS:0.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.71] (179, 311, 1178, 570)
+
+FPS:22.9 	 AVG_FPS:2.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.57] (301, 217, 841, 767)
+	pedestrian: [0.78] (168, 228, 1176, 757)
+	motorcycle: [0.67] (318, 271, 839, 589)
+
+FPS:23.0 	 AVG_FPS:17.2
+ cvWriteFrame 
+Objects:
+	car: [0.99] (511, 266, 1021, 708)
+	bicycle: [0.71] (188, 140, 1132, 557)
+	motorcycle: [0.66] (510, 222, 875, 755)
+	pedestrian: [0.84] (309, 270, 950, 693)
+
+FPS:23.1 	 AVG_FPS:6.3
+ cvWriteFrame 
+Objects:
+	car: [0.72] (239, 284, 1027, 753)
+	motorcycle: [0.68] (523, 207, 1144, 791)
+	bicycle: [0.88] (579, 319, 871, 594)
+	pedestrian: [0.67] (498, 140, 884, 725)
+
+FPS:23.2 	 AVG_FPS:1.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.78] (131, 205, 915, 617)
+	motorcycle: [0.7] (317, 356, 723, 726)
+
+FPS:23.3 	 AVG_FPS:5.1
+ cvWriteFrame 
+Objects:
+	car: [0.6] (459, 126, 705, 784)
+	pedestrian: [0.52] (436, 334, 849, 610)
+	motorcycle: [0.94] (110, 213, 840, 562)
+	bicycle: [0.72] (522, 392, 1119, 521)
+
+FPS:23.4 	 AVG_FPS:5.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.61] (356, 261, 1170, 603)
+
+FPS:23.5 	 AVG_FPS:15.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.57] (579, 190, 734, 505)
+	motorcycle: [0.68] (349, 173, 758, 583)
+
+FPS:23.6 	 AVG_FPS:20.5
+ cvWriteFrame 
+Objects:
+	car: [0.6] (199, 159, 1020, 768)
+
+FPS:23.7 	 AVG_FPS:19.6
+ cvWriteFrame 
+Objects:
+	car: [0.64] (254, 379, 944, 510)
+	pedestrian: [0.52] (277, 133, 944, 717)
+	bicycle: [0.74] (591, 153, 1020, 632)
+	motorcycle: [0.96] (133, 257, 1197, 789)
+
+FPS:23.8 	 AVG_FPS:17.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.9] (594, 183, 1160, 719)
+	motorcycle: [0.52] (328, 152, 767, 691)
+
+FPS:23.9 	 AVG_FPS:21.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.99] (456, 160, 742, 744)
+	bicycle: [0.6] (539, 142, 1074, 574)
+	car: [0.97] (290, 334, 968, 592)
+	pedestrian: [0.86] (358, 257, 1103, 574)
+
+FPS:24.0 	 AVG_FPS:19.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.54] (274, 186, 927, 676)
+	car: [0.91] (599, 278, 734, 510)
+	bicycle: [0.64] (389, 217, 847, 748)
+	pedestrian: [0.95] (357, 136, 944, 652)
+
+FPS:24.1 	 AVG_FPS:10.7
+ cvWriteFrame 
+Objects:
+	car: [0.79] (428, 388, 850, 652)
+	pedestrian: [0.95] (405, 129, 1085, 684)
+	motorcycle: [0.56] (588, 269, 756, 540)
+
+FPS:24.2 	 AVG_FPS:9.4
+ cvWriteFrame 
+Objects:
+	car: [0.55] (515, 365, 1056, 537)
+	pedestrian: [0.81] (145, 368, 876, 501)
+	motorcycle: [0.96] (489, 170, 1153, 591)
+
+FPS:24.3 	 AVG_FPS:16.1
+ cvWriteFrame 
+Objects:
+	car: [0.9] (578, 136, 1016, 512)
+	motorcycle: [0.53] (308, 212, 1030, 671)
+	pedestrian: [0.66] (462, 229, 1113, 743)
+	bicycle: [0.96] (343, 203, 792, 758)
+
+FPS:24.4 	 AVG_FPS:21.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.93] (590, 334, 1050, 547)
+	pedestrian: [0.54] (538, 305, 887, 776)
+	car: [0.72] (225, 272, 841, 557)
+
+FPS:24.5 	 AVG_FPS:9.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.59] (193, 146, 1011, 776)
+
+FPS:24.6 	 AVG_FPS:7.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.66] (560, 146, 994, 629)
+	bicycle: [0.6] (348, 327, 891, 576)
+	car: [0.64] (462, 140, 729, 568)
+
+FPS:24.7 	 AVG_FPS:20.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.64] (241, 100, 1185, 714)
+	car: [0.65] (403, 293, 843, 627)
+
+FPS:24.8 	 AVG_FPS:5.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.51] (164, 128, 855, 555)
+	bicycle: [0.52] (414, 259, 983, 526)
+	motorcycle: [0.83] (246, 344, 1075, 532)
+	car: [0.69] (567, 235, 1103, 676)
+
+FPS:24.9 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.53] (586, 324, 706, 655)
+	motorcycle: [0.65] (188, 127, 995, 646)
+	car: [0.63] (182, 391, 924, 734)
+
+FPS:25.0 	 AVG_FPS:14.0
+ cvWriteFrame 
+Objects:
+	car: [0.66] (234, 288, 739, 726)
+
+FPS:25.1 	 AVG_FPS:23.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.84] (190, 239, 1142, 679)
+	car: [0.89] (262, 216, 1017, 589)
+	bicycle: [0.8] (349, 188, 1043, 567)
+	motorcycle: [0.51] (133, 222, 1093, 682)
+
+FPS:25.2 	 AVG_FPS:7.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.95] (586, 195, 1037, 570)
+
+FPS:25.3 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.98] (338, 216, 841, 727)
+	pedestrian: [0.9] (177, 342, 924, 725)
+	motorcycle: [0.96] (334, 192, 971, 675)
+	car: [0.55] (195, 249, 1108, 721)
+
+FPS:25.4 	 AVG_FPS:11.6
+ cvWriteFrame 
+Objects:
+	car: [0.63] (335, 338, 923, 569)
+
+FPS:25.5 	 AVG_FPS:0.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.88] (507, 255, 1057, 744)
+
+FPS:25.6 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.84] (497, 304, 1157, 724)
+	bicycle: [0.95] (416, 143, 988, 522)
+	motorcycle: [0.66] (260, 209, 840, 615)
+	car: [0.51] (127, 249, 1177, 694)
+
+FPS:25.7 	 AVG_FPS:4.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.91] (326, 340, 1064, 535)
+
+FPS:25.8 	 AVG_FPS:4.0
+ cvWriteFrame 
+Objects:
+	car: [0.85] (258, 210, 812, 726)
+
+FPS:25.9 	 AVG_FPS:1.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.91] (429, 182, 1138, 580)
+	motorcycle: [0.89] (424, 117, 1180, 800)
+
+FPS:26.0 	 AVG_FPS:24.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.76] (266, 327, 777, 547)
+	car: [0.96] (232, 163, 940, 610)
+
+FPS:26.1 	 AVG_FPS:19.0
+ cvWriteFrame 
+Objects:
+	bicycle: [0.81] (160, 116, 874, 678)
+	car: [0.51] (461, 126, 1136, 797)
+
+FPS:26.2 	 AVG_FPS:6.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.5] (394, 264, 883, 657)
+	motorcycle: [0.52] (372, 219, 993, 601)
+	car: [0.63] (155, 360, 728, 718)
+
+FPS:26.3 	 AVG_FPS:10.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (249, 309, 1055, 586)
+	pedestrian: [0.94] (271, 125, 715, 562)
+	car: [0.81] (439, 226, 868, 544)
+
+FPS:26.4 	 AVG_FPS:17.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.75] (170, 238, 740, 748)
+	bicycle: [0.73] (134, 342, 913, 777)
+	motorcycle: [0.58] (517, 317, 1058, 694)
+	car: [0.72] (567, 310, 856, 617)
+
+FPS:26.5 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.73] (452, 297, 992, 506)
+	pedestrian: [0.71] (174, 341, 748, 742)
+	car: [0.93] (191, 173, 867, 636)
+	motorcycle: [0.59] (341, 118, 955, 701)
+
+FPS:26.6 	 AVG_FPS:1.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.89] (362, 212, 1169, 530)
+	bicycle: [0.68] (215, 224, 920, 515)
+	pedestrian: [0.98] (194, 106, 733, 509)
+	car: [0.64] (321, 252, 1010, 773)
+
+FPS:26.7 	 AVG_FPS:8.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.69] (500, 348, 761, 610)
+	car: [0.56] (474, 178, 996, 761)
+
+FPS:26.8 	 AVG_FPS:11.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.87] (131, 358, 988, 619)
+
+FPS:26.9 	 AVG_FPS:4.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.66] (235, 185, 869, 577)
+	pedestrian: [0.94] (337, 212, 834, 731)
+	motorcycle: [0.61] (440, 181, 974, 644)
+
+FPS:27.0 	 AVG_FPS:18.3
+ cvWriteFrame 
+Objects:
+	car: [0.62] (216, 383, 1048, 750)
+
+FPS:27.1 	 AVG_FPS:5.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.92] (213, 133, 1091, 565)
+	motorcycle: [0.95] (554, 254, 764, 730)
+	car: [0.77] (483, 106, 726, 624)
+	pedestrian: [0.8] (344, 342, 1098, 704)
+
+FPS:27.2 	 AVG_FPS:21.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.91] (480, 130, 1045, 679)
+	motorcycle: [0.67] (411, 282, 793, 729)
+
+FPS:27.3 	 AVG_FPS:10.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.68] (128, 192, 810, 756)
+
+FPS:27.4 	 AVG_FPS:23.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.79] (436, 132, 1163, 520)
+	pedestrian: [0.65] (579, 313, 773, 760)
+
+FPS:27.5 	 AVG_FPS:22.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.5] (335, 361, 833, 519)
+	pedestrian: [0.64] (228, 253, 1165, 647)
+	motorcycle: [0.52] (502, 199, 895, 523)
+	car: [0.91] (417, 379, 927, 590)
+
+FPS:27.6 	 AVG_FPS:14.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.68] (503, 335, 977, 539)
+	bicycle: [0.77] (117, 303, 1077, 613)
+	pedestrian: [0.66] (505, 326, 702, 764)
+
+FPS:27.7 	 AVG_FPS:25.3
+ cvWriteFrame 
+Objects:
+	car: [0.61] (382, 259, 1088, 703)
+	pedestrian: [0.74] (244, 165, 828, 749)
+	bicycle: [0.77] (105, 329, 1162, 666)
+
+FPS:27.8 	 AVG_FPS:20.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.67] (390, 176, 771, 716)
+	car: [0.6] (402, 267, 1074, 767)
+
+FPS:27.9 	 AVG_FPS:6.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (565, 133, 763, 530)
+	pedestrian: [0.81] (313, 292, 940, 710)
+	car: [0.61] (434, 115, 961, 506)
+
+FPS:28.0 	 AVG_FPS:12.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.63] (307, 380, 847, 745)
+
+FPS:28.1 	 AVG_FPS:17.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.72] (218, 198, 937, 649)
+
+FPS:28.2 	 AVG_FPS:15.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.78] (113, 346, 1180, 519)
+
+FPS:28.3 	 AVG_FPS:0.2
+ cvWriteFrame 
+Objects:
+	car: [0.91] (519, 252, 822, 749)
+	motorcycle: [0.92] (169, 282, 1173, 583)
+	pedestrian: [0.52] (537, 249, 935, 578)
+
+FPS:28.4 	 AVG_FPS:22.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.84] (297, 205, 937, 522)
+	pedestrian: [0.54] (439, 295, 875, 635)
+	motorcycle: [0.89] (115, 312, 897, 520)
+	car: [0.84] (280, 400, 964, 626)
+
+FPS:28.5 	 AVG_FPS:2.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.95] (269, 290, 1023, 708)
+	car: [0.99] (232, 342, 1096, 752)
+	pedestrian: [0.99] (349, 159, 1069, 745)
+
+FPS:28.6 	 AVG_FPS:27.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.89] (228, 145, 778, 789)
+	pedestrian: [0.95] (236, 125, 830, 784)
+	bicycle: [0.61] (350, 151, 1002, 757)
+
+FPS:28.7 	 AVG_FPS:13.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.6] (527, 210, 1102, 794)
+	bicycle: [0.55] (449, 296, 892, 642)
+
+FPS:28.8 	 AVG_FPS:20.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.88] (454, 178, 956, 596)
+	car: [0.7] (102, 100, 929, 700)
+	pedestrian: [0.93] (211, 241, 1085, 629)
+	bicycle: [0.67] (224, 350, 1158, 571)
+
+FPS:28.9 	 AVG_FPS:28.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.97] (220, 385, 1133, 736)
+
+FPS:29.0 	 AVG_FPS:23.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.9] (409, 325, 712, 514)
+	bicycle: [0.98] (276, 177, 988, 589)
+	pedestrian: [0.63] (415, 121, 739, 683)
+
+FPS:29.1 	 AVG_FPS:24.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (509, 340, 1153, 768)
+	motorcycle: [0.84] (119, 334, 721, 734)
+	car: [0.54] (347, 249, 967, 733)
+
+FPS:29.2 	 AVG_FPS:10.4
+ cvWriteFrame 
+Objects:
+	car: [0.99] (548, 190, 776, 698)
+	motorcycle: [0.74] (554, 230, 974, 600)
+
+FPS:29.3 	 AVG_FPS:10.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.89] (227, 341, 1160, 769)
+	car: [0.76] (500, 344, 708, 770)
+
+FPS:29.4 	 AVG_FPS:28.9
+ cvWriteFrame 
+Objects:
+	car: [0.98] (577, 326, 1070, 628)
+
+FPS:29.5 	 AVG_FPS:23.1
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.51] (129, 135, 850, 645)
+	car: [0.64] (124, 244, 931, 516)
+
+FPS:29.6 	 AVG_FPS:1.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.77] (263, 181, 1101, 574)
+	pedestrian: [0.67] (352, 390, 943, 730)
+
+FPS:29.7 	 AVG_FPS:4.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (196, 239, 1031, 610)
+	car: [0.93] (311, 268, 712, 670)
+	pedestrian: [0.63] (431, 171, 913, 589)
+	motorcycle: [0.62] (297, 327, 759, 717)
+
+FPS:29.8 	 AVG_FPS:10.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.52] (125, 289, 855, 540)
+	motorcycle: [0.68] (505, 296, 719, 743)
+	bicycle: [0.69] (443, 267, 784, 661)
+
+FPS:29.9 	 AVG_FPS:21.8
+ cvWriteFrame 
+Objects:
+	car: [0.71] (104, 234, 1029, 567)
+	motorcycle: [0.64] (499, 383, 713, 701)
+
+FPS:30.0 	 AVG_FPS:18.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.7] (597, 311, 1018, 527)
+
+FPS:30.1 	 AVG_FPS:24.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.95] (154, 143, 1098, 710)
+	bicycle: [0.85] (151, 378, 1174, 502)
+	car: [0.54] (270, 386, 740, 707)
+
+FPS:30.2 	 AVG_FPS:25.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.61] (441, 113, 1185, 656)
+	motorcycle: [0.95] (354, 216, 1005, 617)
+
+FPS:30.3 	 AVG_FPS:6.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.8] (477, 276, 1082, 558)
+
+FPS:30.4 	 AVG_FPS:18.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.86] (232, 359, 845, 702)
+	car: [0.99] (162, 341, 1020, 632)
+	bicycle: [0.57] (138, 283, 1180, 622)
+	pedestrian: [0.92] (225, 295, 1143, 523)
+
+FPS:30.5 	 AVG_FPS:21.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.67] (326, 374, 1177, 776)
+	motorcycle: [0.71] (491, 393, 886, 627)
+
+FPS:30.6 	 AVG_FPS:13.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.75] (515, 147, 922, 730)
+	pedestrian: [0.87] (523, 100, 791, 766)
+	car: [0.68] (312, 339, 855, 583)
+	motorcycle: [0.59] (308, 364, 761, 535)
+
+FPS:30.7 	 AVG_FPS:6.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.8] (575, 236, 1052, 783)
+	car: [0.88] (447, 376, 876, 784)
+	bicycle: [0.83] (435, 102, 1072, 538)
+	motorcycle: [0.55] (283, 256, 1082, 640)
+
+FPS:30.8 	 AVG_FPS:21.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.6] (594, 271, 1103, 603)
+
+FPS:30.9 	 AVG_FPS:18.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [1.0] (180, 383, 719, 665)
+	motorcycle: [0.65] (578, 155, 1040, 784)
+
+FPS:31.0 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.53] (277, 296, 879, 502)
+	car: [0.61] (174, 365, 868, 689)
+	pedestrian: [0.93] (167, 207, 1027, 570)
+	bicycle: [0.56] (142, 290, 934, 711)
+
+FPS:31.1 	 AVG_FPS:22.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (114, 270, 828, 520)
+	car: [0.58] (216, 320, 819, 521)
+
+FPS:31.2 	 AVG_FPS:23.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.99] (156, 377, 1046, 691)
+	bicycle: [0.95] (439, 269, 934, 574)
+	motorcycle: [0.87] (264, 290, 909, 592)
+
+FPS:31.3 	 AVG_FPS:15.2
+ cvWriteFrame 
+Objects:
+	car: [0.55] (121, 216, 1104, 534)
+	pedestrian: [0.7] (122, 188, 839, 612)
+	motorcycle: [0.89] (189, 352, 1126, 665)
+
+FPS:31.4 	 AVG_FPS:7.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (587, 373, 967, 544)
+	pedestrian: [0.67] (488, 363, 740, 537)
+
+FPS:31.5 	 AVG_FPS:10.6
+ cvWriteFrame 
+Objects:
+	car: [0.97] (241, 237, 992, 565)
+	pedestrian: [0.87] (109, 361, 807, 624)
+
+FPS:31.6 	 AVG_FPS:22.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.96] (234, 350, 844, 560)
+
+FPS:31.7 	 AVG_FPS:24.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.74] (505, 189, 1039, 592)
+	motorcycle: [0.61] (415, 122, 999, 568)
+
+FPS:31.8 	 AVG_FPS:6.6
+ cvWriteFrame 
+Objects:
+	car: [0.89] (176, 298, 995, 540)
+	bicycle: [0.9] (349, 194, 722, 729)
+	pedestrian: [0.94] (526, 174, 1064, 601)
+	motorcycle: [0.85] (566, 228, 1106, 628)
+
+FPS:31.9 	 AVG_FPS:4.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (329, 142, 966, 584)
+
+FPS:32.0 	 AVG_FPS:14.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.57] (473, 122, 846, 583)
+
+FPS:32.1 	 AVG_FPS:22.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (558, 302, 1167, 797)
+
+FPS:32.2 	 AVG_FPS:8.5
+ cvWriteFrame 
+Objects:
+	car: [0.95] (383, 224, 871, 544)
+
+FPS:32.3 	 AVG_FPS:23.8
+ cvWriteFrame 
+Objects:
+	car: [0.5] (588, 172, 957, 573)
+	motorcycle: [0.59] (214, 198, 1159, 585)
+
+FPS:32.4 	 AVG_FPS:8.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.71] (287, 161, 887, 709)
+	car: [0.93] (556, 226, 955, 642)
+
+FPS:32.5 	 AVG_FPS:8.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.8] (585, 216, 806, 624)
+	car: [0.71] (407, 149, 730, 757)
+	bicycle: [0.92] (469, 331, 904, 717)
+
+FPS:32.6 	 AVG_FPS:6.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.72] (345, 323, 1097, 502)
+
+FPS:32.7 	 AVG_FPS:5.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.66] (263, 335, 956, 749)
+	bicycle: [0.8] (195, 232, 742, 715)
+	pedestrian: [0.71] (167, 313, 911, 719)
+
+FPS:32.8 	 AVG_FPS:20.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.8] (433, 334, 749, 672)
+	motorcycle: [0.83] (109, 151, 983, 665)
+
+FPS:32.9 	 AVG_FPS:26.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.55] (590, 149, 1096, 714)
+
+FPS:33.0 	 AVG_FPS:4.0
+ cvWriteFrame 
+Objects:
+	car: [0.83] (536, 198, 725, 677)
+
+FPS:33.1 	 AVG_FPS:29.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (519, 139, 796, 668)
+	motorcycle: [0.64] (157, 396, 866, 779)
+	car: [0.96] (196, 235, 1191, 569)
+	pedestrian: [0.89] (298, 132, 956, 663)
+
+FPS:33.2 	 AVG_FPS:19.5
+ cvWriteFrame 
+Objects:
+	car: [0.91] (467, 144, 841, 570)
+	bicycle: [0.78] (426, 243, 1080, 691)
+	motorcycle: [0.96] (538, 378, 1091, 575)
+
+FPS:33.3 	 AVG_FPS:10.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.5] (182, 120, 1054, 514)
+
+FPS:33.4 	 AVG_FPS:14.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.99] (518, 209, 1191, 563)
+
+FPS:33.5 	 AVG_FPS:12.5
+ cvWriteFrame 
+Objects:
+	car: [0.59] (448, 185, 1126, 540)
+	pedestrian: [0.81] (282, 337, 940, 591)
+
+FPS:33.6 	 AVG_FPS:13.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.8] (451, 198, 713, 618)
+	motorcycle: [0.92] (394, 271, 878, 576)
+	car: [0.56] (291, 267, 1180, 530)
+	bicycle: [0.92] (585, 248, 832, 673)
+
+FPS:33.7 	 AVG_FPS:20.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.92] (361, 298, 1042, 604)
+
+FPS:33.8 	 AVG_FPS:2.4
+ cvWriteFrame 
+Objects:
+	car: [0.62] (338, 182, 956, 792)
+	pedestrian: [0.94] (414, 195, 854, 688)
+
+FPS:33.9 	 AVG_FPS:4.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (172, 330, 796, 565)
+	car: [0.64] (394, 188, 896, 627)
+
+FPS:34.0 	 AVG_FPS:5.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (126, 288, 828, 567)
+	car: [0.95] (207, 151, 912, 605)
+	pedestrian: [0.57] (236, 185, 1017, 625)
+	motorcycle: [0.53] (385, 337, 1126, 574)
+
+FPS:34.1 	 AVG_FPS:12.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.74] (488, 118, 856, 599)
+	car: [0.83] (161, 125, 820, 618)
+	motorcycle: [0.73] (150, 249, 713, 722)
+
+FPS:34.2 	 AVG_FPS:29.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (282, 159, 812, 693)
+	pedestrian: [0.61] (353, 358, 724, 688)
+	bicycle: [0.98] (133, 310, 1027, 744)
+
+FPS:34.3 	 AVG_FPS:1.7
+ cvWriteFrame 
+Objects:
+	car: [0.76] (106, 343, 1098, 637)
+	motorcycle: [0.8] (359, 149, 1152, 767)
+	bicycle: [0.69] (272, 157, 1076, 601)
+	pedestrian: [0.86] (498, 216, 1035, 541)
+
+FPS:34.4 	 AVG_FPS:23.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.71] (193, 133, 966, 627)
+	pedestrian: [0.83] (495, 290, 1021, 598)
+
+FPS:34.5 	 AVG_FPS:6.0
+ cvWriteFrame 
+Objects:
+	car: [0.94] (455, 160, 1142, 530)
+
+FPS:34.6 	 AVG_FPS:20.2
+ cvWriteFrame 
+Objects:
+	car: [0.95] (344, 384, 1108, 618)
+	motorcycle: [0.74] (242, 133, 781, 509)
+	pedestrian: [0.81] (137, 361, 819, 713)
+
+FPS:34.7 	 AVG_FPS:30.4
+ cvWriteFrame 
+Objects:
+	bicycle: [0.81] (544, 357, 1071, 575)
+
+FPS:34.8 	 AVG_FPS:3.0
+ cvWriteFrame 
+Objects:
+	car: [0.75] (166, 147, 910, 758)
+	bicycle: [0.67] (573, 258, 1185, 695)
+	motorcycle: [0.99] (568, 119, 1071, 704)
+
+FPS:34.9 	 AVG_FPS:24.5
+ cvWriteFrame 
+Objects:
+	car: [0.53] (449, 129, 1166, 794)
+
+FPS:35.0 	 AVG_FPS:7.0
+ cvWriteFrame 
+Objects:
+	car: [0.53] (582, 306, 1063, 703)
+
+FPS:35.1 	 AVG_FPS:17.6
+ cvWriteFrame 
+Objects:
+	car: [0.6] (295, 257, 949, 501)
+
+FPS:35.2 	 AVG_FPS:26.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.71] (572, 318, 1166, 536)
+	motorcycle: [0.89] (270, 169, 970, 734)
+
+FPS:35.3 	 AVG_FPS:31.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.86] (223, 292, 917, 543)
+	car: [0.67] (248, 161, 777, 750)
+
+FPS:35.4 	 AVG_FPS:5.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.73] (128, 315, 850, 764)
+
+FPS:35.5 	 AVG_FPS:1.5
+ cvWriteFrame 
+Objects:
+	car: [0.74] (449, 274, 888, 662)
+	pedestrian: [0.72] (556, 263, 1009, 741)
+	motorcycle: [0.57] (562, 332, 717, 757)
+	bicycle: [0.65] (245, 244, 845, 691)
+
+FPS:35.6 	 AVG_FPS:18.8
+ cvWriteFrame 
+Objects:
+	car: [0.57] (102, 111, 828, 583)
+	bicycle: [0.95] (173, 354, 1041, 558)
+
+FPS:35.7 	 AVG_FPS:26.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.91] (179, 345, 710, 772)
+	car: [0.97] (142, 236, 1052, 667)
+	pedestrian: [0.85] (563, 306, 921, 789)
+	bicycle: [0.96] (394, 336, 1196, 539)
+
+FPS:35.8 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.78] (200, 146, 1024, 797)
+
+FPS:35.9 	 AVG_FPS:33.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (598, 391, 943, 562)
+
+FPS:36.0 	 AVG_FPS:13.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.68] (424, 198, 1176, 535)
+	pedestrian: [0.96] (344, 274, 855, 528)
+
+FPS:36.1 	 AVG_FPS:11.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.85] (596, 162, 915, 784)
+	car: [0.64] (105, 110, 1115, 714)
+	bicycle: [0.61] (380, 120, 722, 733)
+
+FPS:36.2 	 AVG_FPS:24.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.94] (351, 163, 899, 555)
+	bicycle: [0.82] (434, 226, 982, 764)
+	car: [0.62] (128, 342, 937, 617)
+
+FPS:36.3 	 AVG_FPS:7.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.64] (580, 359, 847, 571)
+	bicycle: [0.92] (280, 245, 1138, 765)
+	car: [0.94] (481, 153, 711, 736)
+	motorcycle: [0.94] (555, 310, 1063, 563)
+
+FPS:36.4 	 AVG_FPS:5.2
+ cvWriteFrame 
+Objects:
+	car: [0.9] (316, 255, 749, 543)
+	motorcycle: [0.82] (119, 310, 1178, 777)
+
+FPS:36.5 	 AVG_FPS:29.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.62] (363, 269, 732, 733)
+	pedestrian: [0.56] (426, 346, 1053, 644)
+
+FPS:36.6 	 AVG_FPS:35.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.73] (544, 100, 874, 708)
+
+FPS:36.7 	 AVG_FPS:33.0
+ cvWriteFrame 
+Objects:
+	car: [0.84] (598, 263, 804, 587)
+	motorcycle: [0.74] (383, 128, 866, 596)
+	pedestrian: [0.86] (139, 119, 976, 774)
+	bicycle: [0.95] (290, 367, 921, 525)
+
+FPS:36.8 	 AVG_FPS:7.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.85] (127, 395, 927, 664)
+	motorcycle: [0.8] (329, 299, 1140, 681)
+	car: [0.89] (393, 113, 1110, 568)
+
+FPS:36.9 	 AVG_FPS:36.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.67] (247, 299, 788, 691)
+	motorcycle: [0.85] (117, 189, 944, 731)
+	car: [0.91] (361, 120, 1028, 679)
+
+FPS:37.0 	 AVG_FPS:25.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.83] (351, 350, 1026, 680)
+	pedestrian: [0.58] (320, 253, 762, 797)
+	car: [0.98] (472, 124, 809, 618)
+
+FPS:37.1 	 AVG_FPS:23.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.91] (170, 368, 995, 544)
+
+FPS:37.2 	 AVG_FPS:11.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.61] (216, 224, 825, 692)
+
+FPS:37.3 	 AVG_FPS:7.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.67] (471, 368, 857, 795)
+	motorcycle: [0.93] (117, 370, 912, 680)
+
+FPS:37.4 	 AVG_FPS:0.4
+ cvWriteFrame 
+Objects:
+	bicycle: [1.0] (356, 302, 776, 653)
+
+FPS:37.5 	 AVG_FPS:21.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.59] (265, 291, 953, 774)
+	car: [0.53] (220, 361, 746, 720)
+	pedestrian: [0.99] (214, 244, 886, 784)
+	motorcycle: [0.86] (183, 386, 993, 607)
+
+FPS:37.6 	 AVG_FPS:4.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.85] (393, 142, 916, 691)
+	pedestrian: [0.86] (123, 119, 737, 528)
+
+FPS:37.7 	 AVG_FPS:9.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.64] (482, 203, 1002, 734)
+
+FPS:37.8 	 AVG_FPS:37.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.8] (224, 335, 980, 630)
+	pedestrian: [0.92] (136, 194, 1078, 753)
+	bicycle: [0.91] (240, 297, 918, 538)
+	car: [1.0] (116, 193, 942, 611)
+
+FPS:37.9 	 AVG_FPS:5.8
+ cvWriteFrame 
+Objects:
+	car: [0.58] (349, 158, 919, 637)
+
+FPS:38.0 	 AVG_FPS:28.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.51] (110, 130, 791, 568)
+	pedestrian: [0.86] (382, 304, 927, 633)
+	car: [0.95] (424, 396, 768, 608)
+
+FPS:38.1 	 AVG_FPS:22.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.62] (466, 143, 930, 765)
+
+FPS:38.2 	 AVG_FPS:13.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.82] (217, 376, 995, 740)
+	car: [0.51] (102, 240, 745, 646)
+
+FPS:38.3 	 AVG_FPS:32.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.52] (196, 105, 729, 624)
+
+FPS:38.4 	 AVG_FPS:22.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.82] (357, 339, 1141, 665)
+
+FPS:38.5 	 AVG_FPS:10.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.56] (178, 207, 702, 628)
+	motorcycle: [0.89] (235, 293, 1123, 661)
+	pedestrian: [0.51] (352, 176, 1200, 750)
+
+FPS:38.6 	 AVG_FPS:9.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.6] (194, 250, 953, 608)
+	bicycle: [0.71] (465, 289, 1078, 544)
+
+FPS:38.7 	 AVG_FPS:28.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.95] (215, 134, 734, 523)
+	bicycle: [0.73] (518, 316, 1149, 691)
+	motorcycle: [0.6] (561, 183, 710, 559)
+	car: [0.71] (490, 361, 727, 728)
+
+FPS:38.8 	 AVG_FPS:37.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.6] (494, 371, 772, 688)
+	motorcycle: [0.89] (550, 192, 764, 764)
+	car: [0.55] (513, 232, 1180, 800)
+	pedestrian: [0.92] (186, 302, 1057, 607)
+
+FPS:38.9 	 AVG_FPS:20.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.86] (369, 119, 819, 521)
+
+FPS:39.0 	 AVG_FPS:25.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.68] (267, 171, 1186, 672)
+	bicycle: [0.51] (407, 237, 836, 503)
+
+FPS:39.1 	 AVG_FPS:17.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.91] (119, 120, 914, 516)
+
+FPS:39.2 	 AVG_FPS:35.2
+ cvWriteFrame 
+Objects:
+	car: [0.56] (447, 348, 1113, 679)
+
+FPS:39.3 	 AVG_FPS:16.7
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.78] (582, 245, 852, 516)
+	car: [0.54] (213, 168, 742, 724)
+	bicycle: [0.65] (181, 346, 1126, 591)
+
+FPS:39.4 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	car: [0.62] (106, 278, 1192, 670)
+	motorcycle: [0.61] (527, 264, 1057, 541)
+	bicycle: [0.84] (600, 223, 891, 781)
+	pedestrian: [0.99] (195, 320, 803, 545)
+
+FPS:39.5 	 AVG_FPS:29.8
+ cvWriteFrame 
+Objects:
+	bicycle: [1.0] (366, 238, 956, 677)
+	motorcycle: [0.62] (163, 257, 868, 592)
+	pedestrian: [0.52] (425, 223, 805, 566)
+
+FPS:39.6 	 AVG_FPS:33.1
+ cvWriteFrame 
+Objects:
+	car: [0.84] (410, 289, 811, 567)
+	bicycle: [0.81] (143, 181, 1006, 577)
+	pedestrian: [0.72] (309, 212, 942, 613)
+
+FPS:39.7 	 AVG_FPS:20.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.59] (492, 390, 760, 643)
+
+FPS:39.8 	 AVG_FPS:38.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.86] (316, 193, 1101, 565)
+	car: [0.69] (254, 121, 1048, 755)
+	bicycle: [0.76] (422, 384, 1148, 643)
+
+FPS:39.9 	 AVG_FPS:20.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.82] (199, 130, 888, 619)
+	motorcycle: [0.7] (582, 275, 999, 554)
+
+FPS:40.0 	 AVG_FPS:32.4
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.6] (290, 300, 1084, 661)
+	motorcycle: [0.85] (378, 202, 1063, 763)
+
+FPS:40.1 	 AVG_FPS:0.3
+ cvWriteFrame 
+Objects:
+	car: [0.72] (580, 378, 768, 662)
+	pedestrian: [0.66] (219, 238, 884, 547)
+
+FPS:40.2 	 AVG_FPS:26.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.92] (175, 183, 853, 529)
+	pedestrian: [0.9] (335, 178, 716, 597)
+	bicycle: [1.0] (315, 311, 726, 616)
+
+FPS:40.3 	 AVG_FPS:34.9
+ cvWriteFrame 
+Objects:
+	car: [0.63] (181, 108, 1023, 668)
+	bicycle: [0.76] (594, 330, 1167, 620)
+	motorcycle: [0.73] (325, 357, 734, 605)
+	pedestrian: [0.8] (406, 187, 1028, 567)
+
+FPS:40.4 	 AVG_FPS:34.6
+ cvWriteFrame 
+Objects:
+	car: [0.99] (514, 355, 1078, 582)
+	motorcycle: [0.92] (246, 282, 890, 693)
+
+FPS:40.5 	 AVG_FPS:15.7
+ cvWriteFrame 
+Objects:
+	car: [0.9] (129, 349, 961, 518)
+
+FPS:40.6 	 AVG_FPS:27.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.6] (505, 400, 954, 597)
+
+FPS:40.7 	 AVG_FPS:22.1
+ cvWriteFrame 
+Objects:
+	bicycle: [0.97] (398, 286, 895, 629)
+	car: [0.74] (522, 396, 1154, 622)
+	pedestrian: [0.65] (164, 391, 841, 559)
+
+FPS:40.8 	 AVG_FPS:9.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.77] (430, 289, 971, 589)
+	car: [0.94] (559, 308, 995, 758)
+	motorcycle: [0.57] (400, 151, 824, 712)
+	bicycle: [0.53] (115, 168, 862, 633)
+
+FPS:40.9 	 AVG_FPS:36.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.72] (552, 288, 748, 637)
+
+FPS:41.0 	 AVG_FPS:2.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.59] (398, 257, 934, 526)
+
+FPS:41.1 	 AVG_FPS:25.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.91] (175, 222, 825, 571)
+
+FPS:41.2 	 AVG_FPS:25.1
+ cvWriteFrame 
+Objects:
+	car: [0.99] (559, 317, 1030, 735)
+
+FPS:41.3 	 AVG_FPS:17.6
+ cvWriteFrame 
+Objects:
+	car: [0.67] (431, 134, 1053, 674)
+	pedestrian: [0.65] (301, 158, 1159, 538)
+
+FPS:41.4 	 AVG_FPS:25.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.95] (569, 104, 739, 611)
+	car: [0.93] (385, 340, 891, 741)
+
+FPS:41.5 	 AVG_FPS:1.5
+ cvWriteFrame 
+Objects:
+	bicycle: [0.56] (187, 188, 816, 772)
+	pedestrian: [0.62] (325, 364, 865, 764)
+	motorcycle: [0.52] (121, 125, 711, 703)
+
+FPS:41.6 	 AVG_FPS:4.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.62] (166, 150, 985, 706)
+	bicycle: [0.77] (305, 317, 1167, 707)
+	motorcycle: [0.73] (526, 122, 732, 691)
+
+FPS:41.7 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.58] (388, 161, 992, 628)
+	pedestrian: [0.89] (186, 149, 817, 765)
+	motorcycle: [0.64] (386, 321, 860, 624)
+	car: [0.54] (184, 181, 1180, 623)
+
+FPS:41.8 	 AVG_FPS:33.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.56] (225, 223, 1112, 784)
+	car: [0.5] (415, 202, 889, 762)
+
+FPS:41.9 	 AVG_FPS:38.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.92] (499, 270, 1199, 759)
+	bicycle: [0.67] (192, 270, 785, 504)
+
+FPS:42.0 	 AVG_FPS:24.6
+ cvWriteFrame 
+Objects:
+	car: [0.92] (278, 134, 894, 696)
+	pedestrian: [0.93] (324, 341, 878, 664)
+
+FPS:42.1 	 AVG_FPS:24.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.61] (297, 290, 797, 791)
+
+FPS:42.2 	 AVG_FPS:27.4
+ cvWriteFrame 
+Objects:
+	car: [0.73] (418, 372, 960, 538)
+
+FPS:42.3 	 AVG_FPS:7.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.82] (275, 320, 746, 718)
+
+FPS:42.4 	 AVG_FPS:36.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.86] (299, 122, 822, 791)
+	car: [0.66] (426, 195, 1124, 632)
+
+FPS:42.5 	 AVG_FPS:28.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.72] (267, 137, 962, 774)
+
+FPS:42.6 	 AVG_FPS:38.2
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.98] (512, 232, 704, 793)
+	car: [0.96] (563, 128, 971, 640)
+
+FPS:42.7 	 AVG_FPS:26.3
+ cvWriteFrame 
+Objects:
+	car: [0.91] (477, 325, 924, 526)
+	pedestrian: [0.56] (512, 116, 720, 631)
+	motorcycle: [0.98] (553, 350, 1031, 652)
+
+FPS:42.8 	 AVG_FPS:5.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.61] (115, 109, 922, 692)
+	car: [0.94] (375, 400, 820, 670)
+	pedestrian: [0.73] (206, 199, 910, 723)
+
+FPS:42.9 	 AVG_FPS:12.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.52] (558, 117, 1142, 756)
+
+FPS:43.0 	 AVG_FPS:35.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.74] (510, 394, 1071, 718)
+	car: [0.87] (487, 352, 767, 668)
+	pedestrian: [0.83] (300, 267, 964, 675)
+
+FPS:43.1 	 AVG_FPS:38.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.95] (116, 110, 722, 756)
+	car: [0.6] (530, 279, 962, 603)
+
+FPS:43.2 	 AVG_FPS:3.9
+ cvWriteFrame 
+Objects:
+	car: [0.88] (233, 378, 866, 791)
+	motorcycle: [0.84] (512, 363, 1049, 750)
+
+FPS:43.3 	 AVG_FPS:30.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.66] (556, 393, 1058, 761)
+	motorcycle: [0.94] (598, 111, 1169, 549)
+	bicycle: [0.62] (230, 228, 774, 692)
+	car: [0.57] (568, 145, 1076, 519)
+
+FPS:43.4 	 AVG_FPS:11.6
+ cvWriteFrame 
+Objects:
+	car: [0.97] (599, 104, 1037, 509)
+	pedestrian: [0.73] (457, 296, 945, 530)
+
+FPS:43.5 	 AVG_FPS:16.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.83] (598, 272, 894, 620)
+	car: [0.97] (515, 296, 1106, 771)
+	pedestrian: [0.69] (397, 247, 1130, 714)
+	motorcycle: [0.54] (480, 113, 762, 760)
+
+FPS:43.6 	 AVG_FPS:25.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.53] (493, 391, 904, 691)
+
+FPS:43.7 	 AVG_FPS:31.3
+ cvWriteFrame 
+Objects:
+	bicycle: [0.54] (216, 337, 791, 577)
+	car: [0.5] (441, 400, 918, 558)
+	pedestrian: [0.72] (392, 152, 1060, 707)
+	motorcycle: [0.8] (100, 354, 751, 706)
+
+FPS:43.8 	 AVG_FPS:31.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.92] (178, 206, 842, 554)
+	pedestrian: [0.92] (326, 342, 771, 701)
+
+FPS:43.9 	 AVG_FPS:17.7
+ cvWriteFrame 
+Objects:
+	car: [0.97] (422, 170, 1125, 596)
+	pedestrian: [0.56] (388, 145, 1019, 653)
+
+FPS:44.0 	 AVG_FPS:34.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.62] (421, 390, 939, 778)
+	pedestrian: [0.84] (143, 319, 838, 583)
+	bicycle: [0.65] (188, 199, 970, 598)
+	car: [0.69] (509, 201, 768, 637)
+
+FPS:44.1 	 AVG_FPS:41.3
+ cvWriteFrame 
+Objects:
+	bicycle: [1.0] (569, 312, 910, 765)
+	pedestrian: [0.88] (185, 104, 753, 777)
+	car: [0.71] (159, 336, 952, 515)
+	motorcycle: [0.6] (568, 308, 939, 514)
+
+FPS:44.2 	 AVG_FPS:20.9
+ cvWriteFrame 
+Objects:
+	car: [0.83] (445, 371, 1072, 795)
+	bicycle: [0.52] (533, 393, 1058, 773)
+	pedestrian: [0.82] (367, 335, 999, 574)
+	motorcycle: [0.58] (530, 137, 969, 617)
+
+FPS:44.3 	 AVG_FPS:30.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.96] (524, 293, 1127, 576)
+	car: [0.74] (499, 282, 1067, 534)
+	motorcycle: [0.72] (471, 285, 844, 691)
+
+FPS:44.4 	 AVG_FPS:24.8
+ cvWriteFrame 
+Objects:
+	car: [0.63] (572, 236, 1115, 615)
+	bicycle: [0.78] (460, 366, 996, 792)
+
+FPS:44.5 	 AVG_FPS:22.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.68] (372, 311, 1018, 597)
+	bicycle: [0.69] (529, 172, 1175, 576)
+
+FPS:44.6 	 AVG_FPS:41.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.59] (474, 391, 907, 754)
+
+FPS:44.7 	 AVG_FPS:8.0
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.66] (475, 139, 835, 788)
+	pedestrian: [0.5] (287, 346, 844, 598)
+	bicycle: [0.7] (536, 138, 1144, 739)
+	car: [0.72] (465, 262, 726, 632)
+
+FPS:44.8 	 AVG_FPS:41.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.93] (340, 239, 792, 795)
+	car: [0.83] (512, 186, 969, 520)
+	bicycle: [0.91] (490, 310, 1003, 772)
+	pedestrian: [0.98] (333, 317, 982, 539)
+
+FPS:44.9 	 AVG_FPS:43.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.81] (328, 104, 951, 606)
+	pedestrian: [0.57] (245, 183, 1001, 647)
+	car: [0.89] (216, 179, 799, 577)
+
+FPS:45.0 	 AVG_FPS:0.9
+ cvWriteFrame 
+Objects:
+	car: [0.88] (113, 248, 767, 639)
+	bicycle: [0.6] (412, 101, 779, 619)
+	pedestrian: [0.77] (374, 313, 994, 657)
+
+FPS:45.1 	 AVG_FPS:34.1
+ cvWriteFrame 
+Objects:
+	car: [0.52] (229, 171, 936, 795)
+	pedestrian: [0.93] (192, 280, 805, 721)
+	motorcycle: [0.67] (151, 150, 1139, 539)
+
+FPS:45.2 	 AVG_FPS:24.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.59] (181, 272, 1108, 501)
+	car: [0.58] (327, 293, 987, 501)
+	motorcycle: [0.5] (230, 103, 878, 524)
+
+FPS:45.3 	 AVG_FPS:19.0
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.62] (341, 243, 1144, 512)
+
+FPS:45.4 	 AVG_FPS:30.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (560, 114, 914, 735)
+	pedestrian: [0.6] (267, 257, 1005, 584)
+
+FPS:45.5 	 AVG_FPS:14.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.91] (490, 217, 1192, 755)
+	motorcycle: [0.81] (471, 158, 751, 709)
+
+FPS:45.6 	 AVG_FPS:8.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.78] (376, 301, 981, 782)
+
+FPS:45.7 	 AVG_FPS:9.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.98] (575, 166, 1110, 646)
+	bicycle: [0.57] (157, 216, 964, 685)
+	motorcycle: [0.97] (582, 191, 1082, 750)
+	car: [0.67] (297, 219, 887, 523)
+
+FPS:45.8 	 AVG_FPS:28.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.6] (520, 222, 1188, 682)
+	car: [0.71] (195, 332, 1181, 708)
+	pedestrian: [0.76] (457, 351, 793, 675)
+
+FPS:45.9 	 AVG_FPS:5.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.72] (330, 150, 736, 622)
+	pedestrian: [0.85] (192, 252, 741, 506)
+	motorcycle: [0.62] (482, 190, 1057, 613)
+	car: [0.78] (594, 325, 1186, 670)
+
+FPS:46.0 	 AVG_FPS:23.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (374, 180, 839, 604)
+
+FPS:46.1 	 AVG_FPS:42.2
+ cvWriteFrame 
+Objects:
+	car: [0.97] (570, 163, 1045, 525)
+	pedestrian: [0.67] (600, 148, 748, 518)
+	motorcycle: [0.72] (228, 146, 811, 504)
+	bicycle: [0.7] (260, 321, 1132, 698)
+
+FPS:46.2 	 AVG_FPS:31.5
+ cvWriteFrame 
+Objects:
+	car: [0.85] (318, 197, 766, 711)
+	pedestrian: [0.89] (417, 306, 998, 551)
+
+FPS:46.3 	 AVG_FPS:28.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.58] (353, 305, 1124, 508)
+
+FPS:46.4 	 AVG_FPS:37.2
+ cvWriteFrame 
+Objects:
+	bicycle: [0.94] (190, 118, 718, 625)
+	car: [0.68] (548, 222, 995, 783)
+
+FPS:46.5 	 AVG_FPS:23.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.8] (186, 322, 1170, 576)
+	car: [0.88] (214, 181, 1141, 732)
+
+FPS:46.6 	 AVG_FPS:45.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.94] (475, 130, 1020, 633)
+	bicycle: [0.88] (199, 208, 953, 652)
+	car: [0.88] (281, 377, 1176, 668)
+	pedestrian: [0.68] (182, 158, 824, 799)
+
+FPS:46.7 	 AVG_FPS:6.9
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.59] (339, 282, 1112, 767)
+	car: [0.63] (297, 233, 730, 547)
+	bicycle: [0.81] (172, 387, 996, 620)
+
+FPS:46.8 	 AVG_FPS:43.2
+ cvWriteFrame 
+Objects:
+	car: [0.58] (431, 249, 924, 652)
+	pedestrian: [0.8] (107, 113, 1160, 598)
+
+FPS:46.9 	 AVG_FPS:38.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.76] (144, 294, 707, 579)
+	car: [0.64] (569, 268, 1049, 676)
+	pedestrian: [0.88] (181, 382, 887, 548)
+	bicycle: [0.51] (108, 136, 754, 800)
+
+FPS:47.0 	 AVG_FPS:11.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.73] (388, 231, 719, 574)
+	pedestrian: [0.52] (372, 239, 1082, 799)
+	bicycle: [0.52] (326, 192, 1156, 625)
+	car: [0.97] (243, 209, 757, 728)
+
+FPS:47.1 	 AVG_FPS:2.1
+ cvWriteFrame 
+Objects:
+	car: [0.68] (422, 130, 731, 730)
+	motorcycle: [0.71] (142, 160, 731, 595)
+
+FPS:47.2 	 AVG_FPS:30.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.78] (371, 196, 865, 693)
+	bicycle: [0.89] (528, 367, 859, 527)
+	pedestrian: [0.56] (513, 318, 793, 763)
+	car: [0.53] (574, 290, 1142, 635)
+
+FPS:47.3 	 AVG_FPS:20.7
+ cvWriteFrame 
+Objects:
+	bicycle: [0.85] (274, 223, 709, 678)
+	pedestrian: [0.76] (199, 171, 1077, 788)
+
+FPS:47.4 	 AVG_FPS:3.8
+ cvWriteFrame 
+Objects:
+	bicycle: [0.75] (188, 294, 713, 752)
+	pedestrian: [0.9] (224, 100, 912, 609)
+	motorcycle: [0.84] (268, 388, 878, 711)
+
+FPS:47.5 	 AVG_FPS:44.6
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.76] (570, 392, 1015, 712)
+	car: [0.61] (249, 325, 713, 594)
+	bicycle: [0.62] (207, 269, 946, 672)
+	pedestrian: [0.65] (579, 397, 714, 768)
+
+FPS:47.6 	 AVG_FPS:34.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.52] (129, 354, 821, 718)
+
+FPS:47.7 	 AVG_FPS:23.3
+ cvWriteFrame 
+Objects:
+	car: [0.89] (361, 309, 717, 707)
+	bicycle: [0.85] (498, 261, 1106, 593)
+
+FPS:47.8 	 AVG_FPS:42.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.7] (182, 277, 886, 584)
+	car: [0.53] (278, 110, 1027, 713)
+
+FPS:47.9 	 AVG_FPS:44.1
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.53] (260, 267, 1155, 703)
+	car: [0.63] (357, 112, 884, 752)
+
+FPS:48.0 	 AVG_FPS:44.6
+ cvWriteFrame 
+Objects:
+	bicycle: [0.97] (165, 133, 1095, 606)
+	motorcycle: [0.62] (569, 113, 1074, 589)
+	pedestrian: [0.5] (359, 289, 897, 502)
+
+FPS:48.1 	 AVG_FPS:24.8
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.85] (243, 398, 854, 771)
+	car: [0.61] (227, 356, 748, 743)
+	bicycle: [0.58] (585, 179, 789, 666)
+
+FPS:48.2 	 AVG_FPS:8.7
+ cvWriteFrame 
+Objects:
+	car: [0.69] (494, 371, 1042, 560)
+	bicycle: [0.55] (504, 295, 766, 668)
+	pedestrian: [0.73] (125, 272, 856, 690)
+
+FPS:48.3 	 AVG_FPS:27.2
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.59] (513, 395, 1106, 576)
+	bicycle: [0.54] (410, 173, 951, 695)
+
+FPS:48.4 	 AVG_FPS:22.8
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.68] (414, 273, 888, 627)
+	car: [0.99] (575, 233, 1093, 590)
+	bicycle: [0.73] (200, 323, 795, 729)
+	motorcycle: [0.9] (399, 183, 705, 638)
+
+FPS:48.5 	 AVG_FPS:39.6
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.78] (545, 281, 976, 587)
+	motorcycle: [0.62] (368, 400, 810, 572)
+
+FPS:48.6 	 AVG_FPS:25.4
+ cvWriteFrame 
+Objects:
+	car: [0.59] (121, 238, 822, 790)
+
+FPS:48.7 	 AVG_FPS:22.5
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.65] (339, 226, 833, 576)
+	bicycle: [0.56] (508, 392, 794, 514)
+
+FPS:48.8 	 AVG_FPS:0.5
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.66] (377, 277, 1076, 599)
+	car: [0.69] (106, 362, 1031, 561)
+
+FPS:48.9 	 AVG_FPS:43.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.96] (476, 276, 843, 510)
+	car: [0.68] (173, 290, 936, 526)
+	bicycle: [0.9] (271, 200, 915, 664)
+	motorcycle: [0.71] (254, 122, 950, 565)
+
+FPS:49.0 	 AVG_FPS:2.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.81] (582, 229, 816, 555)
+	car: [0.61] (488, 267, 1039, 513)
+	bicycle: [0.77] (537, 194, 717, 685)
+
+FPS:49.1 	 AVG_FPS:40.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.86] (299, 359, 1185, 672)
+
+FPS:49.2 	 AVG_FPS:41.4
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.97] (475, 329, 1082, 640)
+
+FPS:49.3 	 AVG_FPS:24.6
+ cvWriteFrame 
+Objects:
+	car: [0.78] (378, 374, 1070, 754)
+	pedestrian: [0.55] (505, 376, 1109, 517)
+
+FPS:49.4 	 AVG_FPS:30.9
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.59] (518, 293, 737, 504)
+	motorcycle: [0.55] (257, 283, 1107, 717)
+	bicycle: [0.9] (458, 380, 717, 518)
+	car: [1.0] (136, 375, 909, 781)
+
+FPS:49.5 	 AVG_FPS:8.3
+ cvWriteFrame 
+Objects:
+	motorcycle: [0.5] (446, 324, 956, 789)
+
+FPS:49.6 	 AVG_FPS:30.9
+ cvWriteFrame 
+Objects:
+	bicycle: [0.9] (147, 145, 1128, 605)
+
+FPS:49.7 	 AVG_FPS:14.3
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.81] (482, 209, 786, 558)
+
+FPS:49.8 	 AVG_FPS:12.2
+ cvWriteFrame 
+Objects:
+	car: [0.68] (326, 142, 845, 706)
+	bicycle: [0.6] (347, 140, 1016, 636)
+	pedestrian: [0.67] (452, 366, 810, 562)
+	motorcycle: [0.65] (137, 332, 769, 763)
+
+FPS:49.9 	 AVG_FPS:29.7
+ cvWriteFrame 
+Objects:
+	pedestrian: [0.73] (154, 169, 868, 635)
+	car: [0.94] (590, 397, 945, 513)
+	motorcycle: [0.62] (233, 319, 1110, 672)
+
