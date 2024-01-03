@@ -4,33 +4,27 @@ import os
 import re
 
 class Process:
-    def __init__(self):
-        self.test_folder = "/Users/lvyijing/Desktop/final/Deep_Learning_Final_Project_IDK/test"
-        self.detections0 = []
-        self.detections1 = []
-        self.detections2 = []
-        self.detections3 = []
-        self.detections4 = []
+    def __init__(self, folder, track_threshs, match_threshs, track_buffers):
+        self.folder = folder
+        self.track_threshs = track_threshs
+        self.match_threshs = match_threshs
+        self.track_buffers = track_buffers
+        self.detections_arr = [[] for _ in range(5)]
         np.float=float
         self.fixed_confidences = 1
 
     def start(self):
-        files = os.listdir(self.test_folder)
+        files = os.listdir(self.folder)
         files = sorted(files, key=lambda x: int(re.search(r'\d+', x).group()))
         for file in files:
-            lines = self.read_file(os.path.join(self.test_folder, file))
+            lines = self.read_file(os.path.join(self.folder, file))
             self.get_detections(lines)
 
-        tracks0 = self.get_tracks(self.detections0)
-        tracks1 = self.get_tracks(self.detections1)
-        tracks2 = self.get_tracks(self.detections2)
-        tracks3 = self.get_tracks(self.detections3)
-        tracks4 = self.get_tracks(self.detections4)
-        print('0: ', self.get_total_id(tracks0))
-        print('1: ', self.get_total_id(tracks1))
-        print('2: ', self.get_total_id(tracks2))
-        print('3: ', self.get_total_id(tracks3))
-        print('4: ', self.get_total_id(tracks4))
+        total_id_arr = []
+        for i in range(5):
+            tracks = self.get_tracks(self.detections_arr[i], track_thresh=self.track_threshs[i], match_thresh=self.match_threshs[i], track_buffer=self.track_buffers[i])
+            total_id_arr += [self.get_total_id(tracks)]
+        return total_id_arr
 
     # 取得物體的數量
     def get_total_id(self, tracks):
@@ -66,11 +60,11 @@ class Process:
             elif label == 4:
                 detection4.append([l, t, r, b, confidences])
 
-        self.detections0 += [detection0]
-        self.detections1 += [detection1]
-        self.detections2 += [detection2]
-        self.detections3 += [detection3]
-        self.detections4 += [detection4]
+        self.detections_arr[0] += [detection0]
+        self.detections_arr[1] += [detection1]
+        self.detections_arr[2] += [detection2]
+        self.detections_arr[3] += [detection3]
+        self.detections_arr[4] += [detection4]
 
     def read_file(self, file_path):
         with open(file_path, 'r') as file:
@@ -78,17 +72,17 @@ class Process:
         return lines
 
     # 讓 tracker 訓練
-    def get_tracks(self, detections):
+    def get_tracks(self, detections, track_thresh, match_thresh, track_buffer):
         class BYTETrackerArgs:
-            def __init__(self):
-                self.track_thresh = 0.25
-                self.track_buffer = 30 # To-do: 不同物體，使用合理的 buffer
-                self.match_thresh = 0.8
+            def __init__(self, track_thresh, match_thresh, track_buffer):
+                self.track_thresh = track_thresh
+                self.match_thresh = match_thresh
+                self.track_buffer = track_buffer
                 self.aspect_ratio_thresh = 3.0
                 self.min_box_area = 1.0
                 self.mot20 = False
 
-        byte_tracker_args = BYTETrackerArgs()
+        byte_tracker_args = BYTETrackerArgs(track_thresh.get(), match_thresh.get(), track_buffer.get())
         byte_tracker = BYTETracker(byte_tracker_args)
 
         tracks = []
