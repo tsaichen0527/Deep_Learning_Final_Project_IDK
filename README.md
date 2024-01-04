@@ -23,5 +23,5 @@ weight可以換成前面訓練出來最好的結果，目前Deep_Learning_Final_
 偵測完成後的結果會被除在yolov7/runs/detect裡面
 ```
 cd yolov7
-python detect.py --weights ../weights/yolov7-trafic/best.pt --source ../test_video/videoplayback.mp4 --save-txt 
+python detect.py --weights ../weights/yolov7-trafic200/weights/best.pt --source ../test_video/videoplayback.mp4 --save-txt --save-conf
 ```

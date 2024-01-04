@@ -1,0 +1,6 @@
+data/images/train/
+data/images/valid/
+data/images/test/
+data/labels/train/
+data/labels/valid/
+data/labels/test/
