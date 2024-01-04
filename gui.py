@@ -11,11 +11,11 @@ class GUI:
         master.title("Tracker")
 
         self.objs = [tk.StringVar() for _ in range(self.num_of_class)]
-        self.objs[0].set("Human")
+        self.objs[0].set("Pedestrian")
         self.objs[1].set("Car")
         self.objs[2].set("Bicycle")
         self.objs[3].set("Motorcycle")
-        self.objs[4].set("Bicylic...")
+        self.objs[4].set("Cyclist")
 
         self.track_threshs = [tk.DoubleVar() for _ in range(self.num_of_class)]
         self.match_threshs = [tk.DoubleVar() for _ in range(self.num_of_class)]
@@ -36,7 +36,7 @@ class GUI:
 
             tk.Label(self.sub_frames[i], text=("Track Thresh: ")).pack(side=tk.LEFT)
             tk.Entry(self.sub_frames[i], textvariable=self.track_threshs[i]).pack(side=tk.LEFT)
-            self.track_threshs[i].set(0.25)
+            self.track_threshs[i].set(0.5)
 
             tk.Label(self.sub_frames[i], text=("Match Thresh: ")).pack(side=tk.LEFT)
             tk.Entry(self.sub_frames[i], textvariable=self.match_threshs[i]).pack(side=tk.LEFT)
@@ -44,7 +44,7 @@ class GUI:
 
             tk.Label(self.sub_frames[i], text=("Track Buffer: ")).pack(side=tk.LEFT)
             tk.Entry(self.sub_frames[i], textvariable=self.track_buffers[i]).pack(side=tk.LEFT)
-            self.track_buffers[i].set(30)
+            self.track_buffers[i].set(100)
             self.sub_frames[i].pack()
         
         tk.Button(master, text="Start Tracking", command=self.start_tracking).pack()
